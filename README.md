@@ -1,3 +1,5 @@
 In deze repository vind je een verzameling FME workspaces die ik heb gemaakt met [FME Desktop](https://www.safe.com/fme/fme-desktop/) van Safe Software.
 
-Op dit moment bevat de repository nog maar één [workspace voor het downloaden van TOP25raster-bestanden](https://github.com/FrieseWoudloper/FME_workspaces/tree/master/TOP25raster/Workspace) (gemaakt in FME Workbench 2016). Over deze workspace heb ik ook een [presentatie](https://github.com/FrieseWoudloper/FME_workspaces/blob/master/TOP25raster/Presentatie) gegeven tijdens de FME studiegroep bijeenkomst van 9 maart 2016 bij het Waterschap Noorderzijlvest.
+De repository bevat de volgende workspaces gemaakt in FME Desktop 2016:
+* [TOP25raster-bestanden](https://github.com/FrieseWoudloper/FME_workspaces/tree/master/TOP25raster)
+* [Gemeentelijke monumenten](https://github.com/FrieseWoudloper/FME_workspaces/tree/master/GemeentelijkeMonumenten)
