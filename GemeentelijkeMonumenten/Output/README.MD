@@ -1,1 +1,1 @@
-Het shape- en Excel-bestand in deze map zijn samengesteld op basis van informatie in Wikipedia die voor hergebruik beschikbaar is gesteld onder een <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike licentie 3.0</a>.
+Het shape- en Excel-bestand in deze map zijn samengesteld op basis van informatie uit Wikipedia die voor hergebruik beschikbaar is gesteld onder een <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike licentie 3.0</a>.
