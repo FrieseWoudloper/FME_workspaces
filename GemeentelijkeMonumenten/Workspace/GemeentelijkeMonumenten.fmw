@@ -5,54 +5,54 @@
 #    Command-line to run this workspace:
 #    
 #    
-#    E:\FME\fme.exe C:\temp\FME_workspaces\GemeentelijkeMonumenten\GemeentelijkeMonumenten.fmw
+#    E:\FME\fme.exe C:\temp\FME_workspaces\GemeentelijkeMonumenten\Workspace\GemeentelijkeMonumenten.fmw
 #          --DestDataset_XLSXW2 "..\output\gemeentelijkemonumenten.xlsx"
 #          --DestDataset_SHAPE "..\output"
 #    
 #    
-#!   REQUIREMENTS=""
+#!   END_TCL=""
+#!   DOC_TOP_LEFT="-2136.38 -6686.23"
+#!   DESCRIPTION=""
+#!   PYTHON_COMPATIBILITY="27"
+#!   LOG_MAX_RECORDED_FEATURES="200"
+#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
+#!   HISTORY=""
+#!   REDIRECT_TERMINATORS="NONE"
+#!   LOG_FILE=""
 #!   FME_SERVER_SERVICES=""
+#!   SOURCE_ROUTING_FILE=""
+#!   SOURCE="NONE"
+#!   MAX_LOG_FEATURES="200"
+#!   DESTINATION="NONE"
+#!   REQUIREMENTS=""
+#!   IGNORE_READER_FAILURE="No"
+#!   DOC_EXTENTS="4817.94 6650.4"
+#!   ATTR_TYPE_ENCODING="SDF"
+#!   SHOW_INFO_NODES="true"
+#!   TITLE=""
+#!   REQUIREMENTS_KEYWORD=""
+#!   WORKSPACE_VERSION="1"
+#!   CATEGORY=""
+#!   FME_DOCUMENT_PRIORGUID="65d82ae1-58c6-4339-948a-90be65bb11c6,8255f91c-990c-47cc-997b-f6ced1e001bc,6ee275f0-7415-4bc6-87aa-a9fe09442602,26ca2711-3a31-4494-b92a-523206787bc3,b79e69ee-b9a9-434b-a392-e7b9dd7dd3db,f0f052bd-5b8b-4201-9ae6-287b97f0f24a,1c875a6b-a556-491f-9a1a-560c67a5c1a3,92b2485a-5044-4690-b97c-823299fd5604,168bf7fd-5619-4ad4-b55f-dcc4cefb4d69,a7d46949-d00d-4191-9a84-85e68b1dc059,c02486c3-0285-4d2b-abfc-79dcdefc25f7,f9cc65a1-33d2-4b6f-a5ce-d0bdda1c4911,6fbc2c81-0524-46c7-8884-b9554b0ef784,572f151e-05f4-476e-a904-3d0e830759de,64f1217d-a07b-46f6-8ada-485f629e1156,df9451ca-d676-4c42-8449-ce445a4a9c32,6929ef6a-6dd4-41f7-aa8b-54c1f570ad00,4c4a2d03-e9f2-4cc4-8e5b-4de57d9d12bc,fbeef1a1-d30f-4455-ab4e-f3fbf33d7311,1e11bf20-4c1d-409f-b469-4ab2928d5d5a,f77e8544-ea6c-4f5c-bd21-bb77ab02d80b,f3d7fb6a-6c27-40af-94f6-33e238ba2b54,c8d1a79f-e8de-4c5b-b16f-929c27e0ec19,f50ac777-2f61-4696-b079-a628c44bdb3b,4cdd39de-8206-435d-b0a3-32672fd756b7,62974751-0abc-4d6c-8b0e-2b409ddfeb09"
+#!   ZOOM_SCALE="100"
+#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   FME_REPROJECTION_ENGINE="FME"
+#!   BEGIN_TCL=""
+#!   VIEW_POSITION="-2484.4 -575.006"
+#!   USAGE=""
+#!   END_PYTHON=""
+#!   FME_DOCUMENT_GUID="a6507474-7f18-4b77-a667-d0a3da467e42"
+#!   FME_STROKE_MAX_DEVIATION="0"
+#!   LAST_SAVE_DATE="2016-05-11T20:27:59"
 #!   LAST_SAVE_BUILD="FME(R) 2016.0.0.0 (20160115 - Build 16167 - WIN64)"
 #!   LEGAL_TERMS_CONDITIONS=""
-#!   DESTINATION_ROUTING_FILE=""
-#!   SHOW_INFO_NODES="true"
-#!   END_TCL=""
-#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
-#!   PASSWORD=""
-#!   TITLE=""
-#!   FME_DOCUMENT_GUID="62974751-0abc-4d6c-8b0e-2b409ddfeb09"
-#!   WARN_INVALID_XFORM_PARAM="Yes"
-#!   LOG_MAX_RECORDED_FEATURES="200"
-#!   MAX_LOG_FEATURES="200"
-#!   PYTHON_COMPATIBILITY="27"
-#!   BEGIN_PYTHON=""
-#!   SOURCE="NONE"
-#!   FME_REPROJECTION_ENGINE="FME"
-#!   ZOOM_SCALE="100"
-#!   WORKSPACE_VERSION="1"
-#!   USAGE=""
-#!   DOC_TOP_LEFT="-2136.38 -7570.91"
-#!   IGNORE_READER_FAILURE="No"
-#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
-#!   LOG_FILE=""
-#!   HISTORY=""
-#!   LAST_SAVE_DATE="2016-05-05T13:18:26"
 #!   SHOW_ANNOTATIONS="true"
-#!   FME_DOCUMENT_PRIORGUID="65d82ae1-58c6-4339-948a-90be65bb11c6,8255f91c-990c-47cc-997b-f6ced1e001bc,6ee275f0-7415-4bc6-87aa-a9fe09442602,26ca2711-3a31-4494-b92a-523206787bc3,b79e69ee-b9a9-434b-a392-e7b9dd7dd3db,f0f052bd-5b8b-4201-9ae6-287b97f0f24a,1c875a6b-a556-491f-9a1a-560c67a5c1a3,92b2485a-5044-4690-b97c-823299fd5604,168bf7fd-5619-4ad4-b55f-dcc4cefb4d69,a7d46949-d00d-4191-9a84-85e68b1dc059,c02486c3-0285-4d2b-abfc-79dcdefc25f7,f9cc65a1-33d2-4b6f-a5ce-d0bdda1c4911,6fbc2c81-0524-46c7-8884-b9554b0ef784,572f151e-05f4-476e-a904-3d0e830759de,64f1217d-a07b-46f6-8ada-485f629e1156,df9451ca-d676-4c42-8449-ce445a4a9c32,6929ef6a-6dd4-41f7-aa8b-54c1f570ad00,4c4a2d03-e9f2-4cc4-8e5b-4de57d9d12bc,fbeef1a1-d30f-4455-ab4e-f3fbf33d7311,1e11bf20-4c1d-409f-b469-4ab2928d5d5a,f77e8544-ea6c-4f5c-bd21-bb77ab02d80b,f3d7fb6a-6c27-40af-94f6-33e238ba2b54,c8d1a79f-e8de-4c5b-b16f-929c27e0ec19,f50ac777-2f61-4696-b079-a628c44bdb3b,4cdd39de-8206-435d-b0a3-32672fd756b7"
-#!   DESTINATION="NONE"
-#!   END_PYTHON=""
-#!   VIEW_POSITION="-2681.28 300.003"
-#!   DESCRIPTION=""
-#!   CATEGORY=""
-#!   ATTR_TYPE_ENCODING="SDF"
-#!   FME_BUILD_NUM="16167"
+#!   BEGIN_PYTHON=""
 #!   FME_GEOMETRY_HANDLING="Enhanced"
-#!   DOC_EXTENTS="4817.94 7535.09"
-#!   SOURCE_ROUTING_FILE=""
-#!   REDIRECT_TERMINATORS="NONE"
-#!   REQUIREMENTS_KEYWORD=""
-#!   FME_STROKE_MAX_DEVIATION="0"
-#!   BEGIN_TCL=""
+#!   DESTINATION_ROUTING_FILE=""
+#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   FME_BUILD_NUM="16167"
+#!   PASSWORD=""
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -68,7 +68,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="xml_type {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_fill_color xml_char(50) fme_dataset xml_char(50) fme_geometry fme_char(50) multi_reader_keyword xml_char(50) fme_start_angle xml_real64 fme_basename xml_char(50) fme_secondary_axis xml_real64 xml_type xml_char(50) fme_rotation xml_real64 fme_color xml_char(50) fme_text_string xml_char(50) fme_sweep_angle xml_real64 fme_type xml_char(50) multi_reader_id xml_int32 fme_feature_type xml_char(50) multi_reader_full_id xml_int32 multi_reader_type xml_char(50) fme_text_size xml_real64 fme_primary_axis xml_real64"
+#!   EXPOSABLE_ATTRS="fme_fill_color xml_char(50) fme_color xml_char(50) multi_reader_id xml_int32 fme_basename xml_char(50) fme_text_string xml_char(50) fme_type xml_char(50) fme_sweep_angle xml_real64 fme_geometry fme_char(50) fme_text_size xml_real64 fme_primary_axis xml_real64 fme_secondary_axis xml_real64 fme_rotation xml_real64 fme_dataset xml_char(50) multi_reader_full_id xml_int32 fme_start_angle xml_real64 fme_feature_type xml_char(50) multi_reader_keyword xml_char(50) xml_type xml_char(50) multi_reader_type xml_char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -77,10 +77,10 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="URL"
 #!   GENERATE_FME_BUILD_NUM="16167"
-#!   COORDSYS=""
 #!   MAX_FEATURES=""
-#!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   COORDSYS=""
 #!   MIN_FEATURES=""
+#!   MAX_FEATURES_PER_FEATURE_TYPE=""
 #!   FEATURE_TYPES=""
 #!   START_FEATURE=""
 #! >
@@ -89,16 +89,16 @@
 #!   VALUE="NO"
 #! />
 #! <METAFILE_PARAMETER
+#!   NAME="NETWORK_AUTHENTICATION"
+#!   VALUE="ALWAYS"
+#! />
+#! <METAFILE_PARAMETER
 #!   NAME="DATASET_NAME"
 #!   VALUE="URL"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="READER_DATASET_HINT"
 #!   VALUE="Specify the WFS URL"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="NETWORK_AUTHENTICATION"
-#!   VALUE="ALWAYS"
 #! />
 #! </DATASET>
 #! <DATASET
@@ -114,7 +114,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="xlsx_drop_sheet No xlsx_trunc_sheet No xlsx_sheet_order &quot;&quot; xlsx_names_are_positions No xlsx_field_names_out Yes xlsx_start_col &quot;&quot; xlsx_start_row &quot;&quot; xlsx_offset_col &quot;&quot; xlsx_offset_row &quot;&quot; xlsx_raster_type PNG xlsx_table_writer_mode Insert xlsx_row_id_column &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_fill_color string(50) fme_dataset string(50) xlsx_col_id number(width,xlsx_col_props) fme_geometry fme_char(50) fme_start_angle number(width,xlsx_col_props) fme_basename string(50) xlsx_raster_width number(width,xlsx_col_props) fme_secondary_axis number(width,xlsx_col_props) xlsx_raster_scale_factor number(width,xlsx_col_props) fme_db_operation string(width,xlsx_col_props) fme_rotation number(width,xlsx_col_props) xlsx_raster_height number(width,xlsx_col_props) fme_color string(50) fme_text_string string(50) fme_sweep_angle number(width,xlsx_col_props) fme_type string(50) fme_feature_type string(50) xlsx_row_id number(width,xlsx_col_props) fme_text_size number(width,xlsx_col_props) fme_primary_axis number(width,xlsx_col_props)"
+#!   EXPOSABLE_ATTRS="fme_fill_color string(50) fme_color string(50) xlsx_raster_height number(width,xlsx_col_props) fme_basename string(50) fme_text_string string(50) fme_type string(50) fme_sweep_angle number(width,xlsx_col_props) fme_geometry fme_char(50) fme_text_size number(width,xlsx_col_props) fme_db_operation string(width,xlsx_col_props) fme_primary_axis number(width,xlsx_col_props) fme_secondary_axis number(width,xlsx_col_props) xlsx_raster_width number(width,xlsx_col_props) fme_rotation number(width,xlsx_col_props) fme_dataset string(50) xlsx_row_id number(width,xlsx_col_props) fme_start_angle number(width,xlsx_col_props) fme_feature_type string(50) xlsx_col_id number(width,xlsx_col_props) xlsx_raster_scale_factor number(width,xlsx_col_props)"
 #!   DEFLINE_PARMS="&quot;GUI CHOICE xlsx_drop_sheet Yes%No Drop Existing Sheet/Named Range:&quot; No &quot;GUI CHOICE xlsx_trunc_sheet Yes%No Truncate Existing Sheet/Named Range:&quot; No &quot;GUI OPTIONAL INTEGER xlsx_sheet_order Sheet Order (1 - n):&quot; &quot;&quot; &quot;GUI CHOICE xlsx_field_names_out Yes%No Output Field Names:&quot; Yes &quot;GUI CHOICE xlsx_names_are_positions Yes%No Use Attribute Names As Column Positions:&quot; No &quot;GUI OPTIONAL TEXT xlsx_start_col Named Range Start Column:&quot; &quot;&quot; &quot;GUI OPTIONAL INTEGER xlsx_start_row Named Range Start Row:&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT xlsx_offset_col Start Column:&quot; &quot;&quot; &quot;GUI OPTIONAL INTEGER xlsx_offset_row Start Row:&quot; &quot;&quot; &quot;GUI CHOICE xlsx_raster_type BMP%JPEG%PNG Raster Format:&quot; PNG &quot;GUI ACTIVECHOICE xlsx_table_writer_mode Insert,+xlsx_row_id_column+%Update,+xlsx_row_id_column+xlsx_row_id%Delete,+xlsx_row_id_column+xlsx_row_id Writer Mode:&quot; Insert &quot;GUI OPTIONAL ATTR xlsx_row_id_column ALLOW_NEW Row ID Attribute:&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS="\\&quot;*{}$"
@@ -123,29 +123,25 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE=""
 #!   GENERATE_FME_BUILD_NUM="15250"
-#!   COORDSYS=""
-#!   FANOUT_GROUP="NO"
 #!   FANOUT_EXPRESSION=""
+#!   FANOUT_GROUP="NO"
+#!   COORDSYS=""
 #! >
+#! <METAFILE_PARAMETER
+#!   NAME="FEATURE_TYPE_NAME"
+#!   VALUE="Sheet"
+#! />
 #! <METAFILE_PARAMETER
 #!   NAME="MIME_TYPE"
 #!   VALUE="application/vnd.ms-excel ADD_DISPOSITION"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="DEFAULT_READER"
-#!   VALUE="XLSXR"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="DEFAULT_ATTR_TYPE"
-#!   VALUE="auto"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="DATASET_NAME"
 #!   VALUE="xlsx file"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_NAME"
-#!   VALUE="Sheet"
+#!   NAME="DEFAULT_READER"
+#!   VALUE="XLSXR"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="ALLOW_DATASET_CONFLICT"
@@ -158,6 +154,10 @@
 #! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_DEFAULT_NAME"
 #!   VALUE="Sheet1"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="DEFAULT_ATTR_TYPE"
+#!   VALUE="auto"
 #! />
 #! </DATASET>
 #! <DATASET
@@ -173,7 +173,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_sweep_angle number(31,15) fme_type char(50) fme_color char(50) fme_secondary_axis number(31,15) fme_rotation number(31,15) fme_basename char(50) fme_geometry fme_char(50) fme_feature_type char(50) fme_start_angle number(31,15) fme_dataset char(50) shape_measures char(254) fme_text_string char(50) fme_text_size number(31,15) fme_fill_color char(50) fme_primary_axis number(31,15)"
+#!   EXPOSABLE_ATTRS="fme_secondary_axis number(31,15) fme_sweep_angle number(31,15) shape_measures char(254) fme_fill_color char(50) fme_primary_axis number(31,15) fme_type char(50) fme_rotation number(31,15) fme_text_string char(50) fme_geometry fme_char(50) fme_start_angle number(31,15) fme_dataset char(50) fme_feature_type char(50) fme_color char(50) fme_basename char(50) fme_text_size number(31,15)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="INDEX"
 #!   ATTR_NAME_INVALID_CHARS=". -%[]&quot;!?*&apos;&amp;\/{}"
@@ -182,13 +182,17 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE=""
 #!   GENERATE_FME_BUILD_NUM="15250"
-#!   COORDSYS=""
-#!   FANOUT_GROUP="NO"
 #!   FANOUT_EXPRESSION=""
+#!   FANOUT_GROUP="NO"
+#!   COORDSYS=""
 #! >
 #! <METAFILE_PARAMETER
 #!   NAME="ADVANCED_PARMS"
 #!   VALUE="SHAPE_IN_ENCODING SHAPE_OUT_STRICT_COMPATIBILITY SHAPE_OUT_PRESERVE_RING_VERTEX_ORDER"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="FEATURE_TYPE_NAME"
+#!   VALUE="Shape File"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="DATASET_NAME"
@@ -197,10 +201,6 @@
 #! <METAFILE_PARAMETER
 #!   NAME="READER_DATASET_HINT"
 #!   VALUE="Select the Esri Shape file(s)"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_NAME"
-#!   VALUE="Shape File"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="WRITER_DATASET_HINT"
@@ -377,150 +377,6 @@
 #! />
 #! <DATA_TYPE
 #!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_varchar(width)"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_varbinary(width)"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_binary(width)"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(254)"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(254)"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(254)"
-#!   FME_TYPE="fme_xml"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(254)"
-#!   FME_TYPE="fme_json"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(20)"
-#!   FME_TYPE="fme_datetime"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(12)"
-#!   FME_TYPE="fme_time"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="date"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(31,15)"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(15,7)"
-#!   FME_TYPE="fme_real32"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(11,0)"
-#!   FME_TYPE="fme_int32"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(11,0)"
-#!   FME_TYPE="fme_uint32"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(20,0)"
-#!   FME_TYPE="fme_int64"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(20,0)"
-#!   FME_TYPE="fme_uint64"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="logical"
-#!   FME_TYPE="fme_boolean"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(6,0)"
-#!   FME_TYPE="fme_int16"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(6,0)"
-#!   FME_TYPE="fme_uint16"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(4,0)"
-#!   FME_TYPE="fme_int8"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(4,0)"
-#!   FME_TYPE="fme_uint8"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(width,decimal)"
-#!   FME_TYPE="fme_decimal(width,decimal)"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(1)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="SHAPE"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
 #!   FORMAT_TYPE="string(width,xlsx_col_props)"
 #!   FME_TYPE="fme_varchar(width)"
 #!   FORMAT="XLSXW2"
@@ -663,6 +519,150 @@
 #!   FME_TYPE="fme_boolean"
 #!   FORMAT="XLSXW2"
 #! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_varbinary(width)"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_binary(width)"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(254)"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(254)"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(254)"
+#!   FME_TYPE="fme_xml"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(254)"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(20)"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(12)"
+#!   FME_TYPE="fme_time"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="date"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(31,15)"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(15,7)"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(11,0)"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(11,0)"
+#!   FME_TYPE="fme_uint32"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(20,0)"
+#!   FME_TYPE="fme_int64"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(20,0)"
+#!   FME_TYPE="fme_uint64"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="logical"
+#!   FME_TYPE="fme_boolean"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(6,0)"
+#!   FME_TYPE="fme_int16"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(6,0)"
+#!   FME_TYPE="fme_uint16"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(4,0)"
+#!   FME_TYPE="fme_int8"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(4,0)"
+#!   FME_TYPE="fme_uint8"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(width,decimal)"
+#!   FME_TYPE="fme_decimal(width,decimal)"
+#!   FORMAT="SHAPE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(1)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="SHAPE"
+#! />
 #! </DATA_TYPES>
 #! <GEOM_TYPES>
 #! <GEOM_TYPE
@@ -760,6 +760,96 @@
 #!   FORMAT_TYPE="xml_no_geom"
 #!   FME_TYPE="fme_feature_table"
 #!   FORMAT="WFS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_no_geom"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_point"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_area"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_text"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_ellipse"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_arc"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_rectangle"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_rounded_rectangle"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_collection"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_surface"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_solid"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_raster"
+#!   FORMAT="XLSXW2"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="xlsx_none"
+#!   FME_TYPE="fme_point_cloud"
+#!   FORMAT="XLSXW2"
 #! />
 #! <GEOM_TYPE
 #!   IS_SOURCE="false"
@@ -899,96 +989,6 @@
 #!   FME_TYPE="fme_collection"
 #!   FORMAT="SHAPE"
 #! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_no_geom"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_point"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_point"
-#!   FME_TYPE="fme_point"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_line"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_area"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_text"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_ellipse"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_arc"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_rectangle"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_rounded_rectangle"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_collection"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_surface"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_solid"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_raster"
-#!   FORMAT="XLSXW2"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="xlsx_none"
-#!   FME_TYPE="fme_point_cloud"
-#!   FORMAT="XLSXW2"
-#! />
 #! </GEOM_TYPES>
 #! <FEATURE_TYPES>
 #! <FEATURE_TYPE
@@ -999,8 +999,8 @@
 #!   IS_EDITABLE="false"
 #!   IDENTIFIER="78"
 #!   FEAT_GEOMTYPE="xml_no_geom xml_point xml_line xml_area xml_arc xml_surface xml_solid xml_aggregate"
-#!   POSITION="-1871.99 -1226.03"
-#!   BOUNDING_RECT="-1871.99 -1226.03 -1 -1"
+#!   POSITION="-1840.74 -1291.66"
+#!   BOUNDING_RECT="-1840.74 -1291.66 -1 -1"
 #!   ORDER="5e+14"
 #!   COLLAPSED="true"
 #!   KEYWORD="WFS_1"
@@ -1048,18 +1048,18 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="bron" ATTR_TYPE="auto(20,format_type;Simple;font_type;;font_color;;fill_color;;custom_options;;text_wrap;no)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="x" ATTR_TYPE="auto(20,format_type;Simple;font_type;;font_color;;fill_color;;custom_options;;text_wrap;no)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="y" ATTR_TYPE="auto(20,format_type;Simple;font_type;;font_color;;fill_color;;custom_options;;text_wrap;no)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_sheet_order" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_start_col" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_table_writer_mode" PARM_VALUE="Insert"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_offset_col" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_names_are_positions" PARM_VALUE="No"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_drop_sheet" PARM_VALUE="No"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_offset_row" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="xlsx_row_id_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_raster_type" PARM_VALUE="PNG"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_field_names_out" PARM_VALUE="Yes"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_start_row" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_sheet_order" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_offset_row" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_table_writer_mode" PARM_VALUE="Insert"/>
 #!     <DEFLINE_PARM PARM_NAME="xlsx_trunc_sheet" PARM_VALUE="No"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_names_are_positions" PARM_VALUE="No"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_raster_type" PARM_VALUE="PNG"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_start_row" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_offset_col" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_start_col" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_drop_sheet" PARM_VALUE="No"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_field_names_out" PARM_VALUE="Yes"/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1125,44 +1125,29 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="34"
 #! />
 #! <COMMENT
 #!   IDENTIFIER="100"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;PDOK-service bestuurlijke grenzen&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   POSITION="-2039.29 -876.94"
-#!   TOP_LEFT="-2039.29 -876.94"
-#!   BOTTOM_RIGHT="-2040.29 -875.94"
-#!   BOUNDING_RECT="-2039.29 -876.94 -1 -1"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;PDOK-service bestuurlijke grenzen&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="-2008.04 -942.566"
+#!   TOP_LEFT="-2008.04 -942.566"
+#!   BOTTOM_RIGHT="-2009.04 -941.566"
+#!   BOUNDING_RECT="-2008.04 -942.566 -1 -1"
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="78"
 #! />
 #! <COMMENT
-#!   IDENTIFIER="103"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Alleen de provincie Groningen selecteren&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   POSITION="-1071.04 -876.94"
-#!   TOP_LEFT="-1071.04 -876.94"
-#!   BOTTOM_RIGHT="-1072.04 -875.94"
-#!   BOUNDING_RECT="-1071.04 -876.94 -1 -1"
-#!   ORDER="5e+14"
-#!   FOLLOW_ANCHOR="true"
-#!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
-#!   SIZE_POLICY="8"
-#!   COMMENT_TYPE="REGULAR"
-#!   ANCHORED_NODE="80"
-#! />
-#! <COMMENT
 #!   IDENTIFIER="104"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Alleen gemeentenaam en CBS-code bewaren&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Alleen gemeentenaam en CBS-code bewaren&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   POSITION="588.065 -876.94"
 #!   TOP_LEFT="588.065 -876.94"
 #!   BOTTOM_RIGHT="587.065 -875.94"
@@ -1170,7 +1155,7 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="87"
@@ -1207,7 +1192,7 @@
 #! />
 #! <COMMENT
 #!   IDENTIFIER="101"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Naamgevingen attributen van gemeenten met 0 of 1 monument aanpassen&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Naamgevingen attributen van gemeenten met 0 of 1 monument aanpassen&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   POSITION="593.043 -2640.16"
 #!   TOP_LEFT="593.043 -2640.16"
 #!   BOTTOM_RIGHT="592.043 -2639.16"
@@ -1230,7 +1215,7 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="79"
@@ -1320,7 +1305,7 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="64"
@@ -1335,14 +1320,14 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="6"
 #! />
 #! <COMMENT
 #!   IDENTIFIER="117"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;EPSG:28992 verwijderen&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;EPSG:28992 verwijderen&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   POSITION="1758.72 -1251.86"
 #!   TOP_LEFT="1758.72 -1251.86"
 #!   BOTTOM_RIGHT="1757.72 -1250.86"
@@ -1350,7 +1335,7 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.192157"
+#!   COLOUR="1,1,0.784314,0.878431"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="115"
@@ -1365,7 +1350,7 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="71"
@@ -1380,7 +1365,7 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="76"
@@ -1395,29 +1380,14 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="43"
 #! />
 #! <COMMENT
-#!   IDENTIFIER="95"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Het komt regelmatig voor dat de workspace er uit klapt en je de melding&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier&apos;; font-size:12pt;&quot;&gt; &apos;Translation failed&apos; &lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;krijgt. &lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Als je dan in het Translation Log kijkt, zie je onderstaande regels. Blijkbaar gaat er iets mis met het inlezen van de respons van de bestuurlijke grenzen service. &lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Als je de workspace nog een keer uitvoert, gaat het meestal goed.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:12pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier&apos;; font-size:12pt; color:#000000;&quot;&gt;2016-05-04 10:51:00|   9.7|  0.0|ERROR |XML Parser error: &apos;Error in input dataset:&apos;&lt;/span&gt;&lt;a href=&quot;https://geodata.nationaalgeoregister.nl:443/bestuurlijkegrenzen/wfs?SERVICE=WFS&amp;amp;VERSION=1.1.0&amp;amp;REQUEST=GetFeature&amp;amp;TYPENAME=bestuurlijkegrenzen%3Aprovincies&amp;amp;NAMESPACE=xmlns%28bestuurlijkegrenzen%3Dhttp%3A%2F%2Fbestuurlijkegrenzen.geonovum.nl%29&amp;amp;MAXFEATURES=30000&apos;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier&apos;; font-size:12pt; text-decoration: underline; color:#0000ff;&quot;&gt;https://geodata.nationaalgeoregister.nl:443/bestuurlijkegrenzen/wfs?SERVICE=WFS&amp;amp;VERSION=1.1.0&amp;amp;REQUEST=GetFeature&amp;amp;TYPENAME=bestuurlijkegrenzen%3Aprovincies&amp;amp;NAMESPACE=xmlns%28bestuurlijkegrenzen%3Dhttp%3A%2F%2Fbestuurlijkegrenzen.geonovum.nl%29&amp;amp;MAXFEATURES=30000&apos;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Courier&apos;; font-size:12pt; color:#000000;&quot;&gt; line:1 column:1786397 message:input ended before all started tags were ended; last tag started is &apos;gml:posList&apos;&apos;&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier&apos;; font-size:12pt; color:#000000;&quot;&gt;2016-05-04 10:51:00|   9.7|  0.0|ERROR |The XML Module halted on error, see the logfile for details&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   POSITION="-1963.99 -6994.03"
-#!   TOP_LEFT="-1963.99 -6994.03"
-#!   BOTTOM_RIGHT="2033.6 -7570.91"
-#!   BOUNDING_RECT="-1963.99 -6994.03 3997.6 576.88"
-#!   ORDER="5e+14"
-#!   FOLLOW_ANCHOR="true"
-#!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.192157"
-#!   SIZE_POLICY="10"
-#!   COMMENT_TYPE="REGULAR"
-#!   ANCHORED_NODE="0"
-#! />
-#! <COMMENT
 #!   IDENTIFIER="98"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;GemeentelijkeMonumenten.fmw&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Datum: 4 mei 2016&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Versie: 1.0&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Auteur: Willy Bakker&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Omschrijving: Workspace voor het creëren van een shape- en Excel-bestand met gemeentelijke monumenten in de provincie Groningen op basis van informatie in Wikipedia&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Parameters:&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;DestDataset_XLSXW2 - Output Excel-bestand&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;DestDataset_SHAPE - Output Shape-bestand&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:12pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;GemeentelijkeMonumenten.fmw&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Datum: 11 mei 2016&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Versie: 1.1&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Auteur: Willy Bakker&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Omschrijving: Workspace voor het creëren van een shape- en Excel-bestand met gemeentelijke monumenten in de provincie Groningen op basis van informatie in Wikipedia&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Parameters:&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;DestDataset_XLSXW2 - Output Excel-bestand&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;DestDataset_SHAPE - Output Shape-bestand&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:12pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   POSITION="-1963.99 -35.8243"
 #!   TOP_LEFT="-1963.99 -35.8243"
 #!   BOTTOM_RIGHT="1949.65 -625.205"
@@ -1440,7 +1410,7 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="122"
@@ -1455,10 +1425,25 @@
 #!   ORDER="5e+14"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.878431"
+#!   COLOUR="1,1,0.784314,0.87451"
 #!   SIZE_POLICY="8"
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="124"
+#! />
+#! <COMMENT
+#!   IDENTIFIER="103"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Via XML Filter Expression alleen provincie Groningen selecteren&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="-1726.79 -1482.65"
+#!   TOP_LEFT="-1726.79 -1482.65"
+#!   BOTTOM_RIGHT="-1727.79 -1481.65"
+#!   BOUNDING_RECT="-1726.79 -1482.65 -1 -1"
+#!   ORDER="5e+14"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="false"
+#!   COLOUR="1,1,0.784314,0.882353"
+#!   SIZE_POLICY="8"
+#!   COMMENT_TYPE="REGULAR"
+#!   ANCHORED_NODE="78"
 #! />
 #! </COMMENTS>
 #! <CONSTANTS>
@@ -1469,22 +1454,22 @@
 #!   NAME="Wikipedia Heritage API bevragen en XML-respons inlezen"
 #!   DESCRIPTION="&lt;html&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   TOP_LEFT="-1963.99 -1985.82"
-#!   BOTTOM_RIGHT="1650.37 -2590.32"
+#!   BOTTOM_RIGHT="1650.37 -2590.31"
 #!   BOUNDING_RECT="-1963.99 -1985.82 3614.36 604.493"
 #!   STICKY="true"
 #!   COLOUR="0.431373,0.647059,0.984314"
-#!   CONTENTS="52 41 3 5 57 40 42 53 37 106 39 "
+#!   CONTENTS="3 5 39 57 53 52 37 42 106 40 41 "
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="58"
 #!   NAME="Clean-up"
 #!   DESCRIPTION="&lt;html&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   TOP_LEFT="-1963.99 -2885.82"
-#!   BOTTOM_RIGHT="2587.41 -3779.14"
+#!   BOTTOM_RIGHT="2587.41 -3779.13"
 #!   BOUNDING_RECT="-1963.99 -2885.82 4551.4 893.312"
 #!   STICKY="true"
 #!   COLOUR="0.929412,0.611765,0.729412"
-#!   CONTENTS="48 66 67 109 108 84 63 112 111 79 62 46 56 61 59 54 47 110 "
+#!   CONTENTS="54 61 79 108 63 110 47 109 48 59 111 62 46 112 67 66 56 84 "
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="60"
@@ -1495,18 +1480,18 @@
 #!   BOUNDING_RECT="-1963.99 -4085.82 4539.44 828.366"
 #!   STICKY="true"
 #!   COLOUR="0.537255,0.14902,0.0784314"
-#!   CONTENTS="90 86 6 89 129 64 118 119 114 76 71 75 "
+#!   CONTENTS="89 118 90 76 129 86 71 119 114 75 64 6 "
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="77"
 #!   NAME="Woonplaats toevoegen m.b.v. BAG-service"
 #!   DESCRIPTION="&lt;html&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   TOP_LEFT="-1963.99 -5285.82"
-#!   BOTTOM_RIGHT="693.477 -5904.01"
+#!   BOTTOM_RIGHT="693.48 -5904"
 #!   BOUNDING_RECT="-1963.99 -5285.82 2657.47 618.182"
 #!   STICKY="true"
 #!   COLOUR="0.666667,0.329412,1"
-#!   CONTENTS="121 70 74 73 44 65 72 43 "
+#!   CONTENTS="44 65 72 121 70 74 73 43 "
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="85"
@@ -1517,18 +1502,18 @@
 #!   BOUNDING_RECT="-1963.99 -1085.82 4645.55 597.766"
 #!   STICKY="true"
 #!   COLOUR="0.403922,0.929412,0.286275"
-#!   CONTENTS="36 115 117 80 34 88 78 116 83 87 81 35 "
+#!   CONTENTS="115 103 88 83 34 78 116 117 36 87 "
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="96"
 #!   NAME="Shape en Excel-bestand aanmaken"
 #!   DESCRIPTION="&lt;html&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   TOP_LEFT="-1963.99 -6185.82"
-#!   BOTTOM_RIGHT="688.997 -6686.23"
+#!   BOTTOM_RIGHT="689 -6686.23"
 #!   BOUNDING_RECT="-1963.99 -6185.82 2652.99 500.409"
 #!   STICKY="true"
 #!   COLOUR="0.909804,0.729412,0.0509804"
-#!   CONTENTS="91 123 125 122 124 92 93 "
+#!   CONTENTS="125 124 93 91 123 122 92 "
 #! />
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
@@ -1551,20 +1536,20 @@
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="FEATURE_TYPES_FORMAT_NAME" PARM_VALUE="XML"/>
-#!     <XFORM_PARM PARM_NAME="EMBEDDED_EXPRESSIONS" PARM_VALUE="monuments"/>
+#!     <XFORM_PARM PARM_NAME="XML_SOURCE_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="FEATURE_PATHS_STRUCTURE_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="FILE_XML" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_EXPOSE" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_XML" PARM_VALUE="_response_body"/>
-#!     <XFORM_PARM PARM_NAME="XML_SOURCE_TYPE" PARM_VALUE="Attribute with XML document"/>
 #!     <XFORM_PARM PARM_NAME="FEATURE_PATHS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="FLATTEN_OPTIONS" PARM_VALUE="&lt;lt&gt;structure&lt;space&gt;&lt;space&gt;&lt;lf&gt;separator=&lt;quote&gt;.&lt;quote&gt;&lt;space&gt;&lt;lf&gt;map-empty-elements=&lt;quote&gt;yes&lt;quote&gt;&lt;space&gt;&lt;lf&gt;matched-prefix=&lt;quote&gt;attributes&lt;quote&gt;&lt;space&gt;&lt;lf&gt;matched-attributes=&lt;quote&gt;yes&lt;quote&gt;&lt;space&gt;&lt;lf&gt;cardinality=&lt;quote&gt;+&lt;opencurly&gt;?&lt;closecurly&gt;&lt;quote&gt;&lt;lf&gt;except-expression=&lt;quote&gt;&lt;quote&gt;&lt;lf&gt;structure-prefix=&lt;quote&gt;&lt;quote&gt;&lt;lf&gt;child-position-attribute=&lt;quote&gt;&lt;quote&gt;&lt;lf&gt;attribute-identifier=&lt;quote&gt;&lt;quote&gt;&lt;lf&gt;ui-mode=&lt;quote&gt;basic&lt;quote&gt;&lt;solidus&gt;&lt;gt&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_EXPOSE" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NEW_ATTRIBUTES" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XML_SOURCE_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="XMLFlattener"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FEATURE_TYPES_FORMAT_NAME" PARM_VALUE="XML"/>
+#!     <XFORM_PARM PARM_NAME="FILE_XML" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="SUB_FRAGMENT_OPTIONS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XML_SOURCE_TYPE" PARM_VALUE="Attribute with XML document"/>
+#!     <XFORM_PARM PARM_NAME="EMBEDDED_EXPRESSIONS" PARM_VALUE="monuments"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="XMLFlattener"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="5"
@@ -1605,8 +1590,8 @@
 #!     <XFORM_ATTR ATTR_NAME="monument_article" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="country,lang,id,adm0,adm1,adm2,adm3,adm4,name,address,municipality,lat,lon,image,commonscat,source,monument_article,registrant_url,changed"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="country,lang,id,adm0,adm1,adm2,adm3,adm4,name,address,municipality,lat,lon,image,commonscat,source,monument_article,registrant_url,changed"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="6"
@@ -1666,14 +1651,14 @@
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="MODE_NAME" PARM_VALUE="Add Point"/>
 #!     <XFORM_PARM PARM_NAME="XVAL" PARM_VALUE="@Value(lon)"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ZVAL" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="INDEX" PARM_VALUE="0"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="VertexCreator"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MODE_NAME" PARM_VALUE="Add Point"/>
 #!     <XFORM_PARM PARM_NAME="YVAL" PARM_VALUE="@Value(lat)"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="VertexCreator"/>
+#!     <XFORM_PARM PARM_NAME="INDEX" PARM_VALUE="0"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="65"
@@ -1716,20 +1701,20 @@
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="FEATURE_TYPES_FORMAT_NAME" PARM_VALUE="XML"/>
-#!     <XFORM_PARM PARM_NAME="EMBEDDED_EXPRESSIONS" PARM_VALUE="bag:woonplaats"/>
+#!     <XFORM_PARM PARM_NAME="XML_SOURCE_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="FEATURE_PATHS_STRUCTURE_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="FILE_XML" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_EXPOSE" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_XML" PARM_VALUE="_response_body"/>
-#!     <XFORM_PARM PARM_NAME="XML_SOURCE_TYPE" PARM_VALUE="Attribute with XML document"/>
 #!     <XFORM_PARM PARM_NAME="FEATURE_PATHS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="FLATTEN_OPTIONS" PARM_VALUE="&lt;lt&gt;structure&lt;space&gt;&lt;space&gt;&lt;lf&gt;separator=&lt;quote&gt;.&lt;quote&gt;&lt;space&gt;&lt;lf&gt;map-empty-elements=&lt;quote&gt;yes&lt;quote&gt;&lt;space&gt;&lt;lf&gt;matched-prefix=&lt;quote&gt;attributes&lt;quote&gt;&lt;space&gt;&lt;lf&gt;matched-attributes=&lt;quote&gt;yes&lt;quote&gt;&lt;space&gt;&lt;lf&gt;cardinality=&lt;quote&gt;+&lt;opencurly&gt;?&lt;closecurly&gt;&lt;quote&gt;&lt;lf&gt;except-expression=&lt;quote&gt;&lt;quote&gt;&lt;lf&gt;structure-prefix=&lt;quote&gt;&lt;quote&gt;&lt;lf&gt;child-position-attribute=&lt;quote&gt;&lt;quote&gt;&lt;lf&gt;attribute-identifier=&lt;quote&gt;&lt;quote&gt;&lt;lf&gt;ui-mode=&lt;quote&gt;basic&lt;quote&gt;&lt;solidus&gt;&lt;gt&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_EXPOSE" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NEW_ATTRIBUTES" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XML_SOURCE_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="XMLFlattener_2"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FEATURE_TYPES_FORMAT_NAME" PARM_VALUE="XML"/>
+#!     <XFORM_PARM PARM_NAME="FILE_XML" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="SUB_FRAGMENT_OPTIONS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XML_SOURCE_TYPE" PARM_VALUE="Attribute with XML document"/>
+#!     <XFORM_PARM PARM_NAME="EMBEDDED_EXPRESSIONS" PARM_VALUE="bag:woonplaats"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="XMLFlattener_2"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="70"
@@ -1773,8 +1758,8 @@
 #!     <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="woonplaats" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="woonplaats"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer_2"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="woonplaats"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="73"
@@ -1814,46 +1799,11 @@
 #!     <XFORM_ATTR ATTR_NAME="y" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="z" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="woonplaats" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="_http_status_code,_response_body"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover_3"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE="_headers&lt;opencurly&gt;&lt;closecurly&gt; _headers&lt;opencurly&gt;&lt;closecurly&gt;.name _headers&lt;opencurly&gt;&lt;closecurly&gt;.value"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#!   IDENTIFIER="80"
-#!   TYPE="TestFilter"
-#!   VERSION="1"
-#!   POSITION="-1221.67 -1226.03"
-#!   BOUNDING_RECT="-1221.67 -1226.03 783.993 71"
-#!   ORDER="5e+14"
-#!   PARMS_EDITED="true"
-#!   ENABLED="true"
-#!   LAST_PARM_EDIT="16167"
-#! >
-#!     <OUTPUT_FEAT NAME="&lt;at&gt;Value&lt;openparen&gt;provincienaam&lt;closeparen&gt;&lt;space&gt;=&lt;space&gt;Groningen"/>
-#!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="gml_parent_property" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="gid" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="gid.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="provincienaam" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="provincienaam.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="geom" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <OUTPUT_FEAT NAME="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
-#!     <FEAT_COLLAPSED COLLAPSED="1"/>
-#!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="gml_parent_property" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="gid" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="gid.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="provincienaam" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="provincienaam.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="geom" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="BOOL_OP&lt;comma&gt;OR&lt;comma&gt;COMPOSITE_TEST&lt;comma&gt;&lt;lt&gt;Unused&lt;gt&gt;&lt;comma&gt;TEST_CLAUSE&lt;comma&gt;&lt;quote&gt;TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;provincienaam&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;Groningen&lt;quote&gt;,&lt;at&gt;Value&lt;openparen&gt;provincienaam&lt;closeparen&gt;&lt;space&gt;=&lt;space&gt;Groningen"/>
-#!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="TestFilter"/>
+#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="_http_status_code,_response_body"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover_3"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="83"
@@ -1871,10 +1821,10 @@
 #!     <XFORM_ATTR ATTR_NAME="code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gemeentenaam" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="gemeentenaam,code"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper"/>
-#!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="87"
@@ -1891,8 +1841,8 @@
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gemeentenaam" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryRemover"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryRemover"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="34"
@@ -1948,68 +1898,68 @@
 #!     <XFORM_ATTR ATTR_NAME="provincienaam.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="geom" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="_reader_error" IS_USER_CREATED="false" FEAT_INDEX="3" />
-#!     <XFORM_PARM PARM_NAME="WFS_DISABLE_AUTOMATIC_READER_TYPE_SELECTION" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="AVAILABLE_FEATURE_TYPES" PARM_VALUE="gemeenten"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="OUTPUTPORTS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_EXPOSE_ATTRS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_MAP_PREDEFINED_GML_PROPERTIES" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="WFS_USE_SEARCH_ENVELOPE" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="WFS_MAX_MULTI_LIST_LEVEL" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="FORMAT" PARM_VALUE="WFS"/>
-#!     <XFORM_PARM PARM_NAME="WFS_MAX_RESULT_FEATURES" PARM_VALUE="30000"/>
-#!     <XFORM_PARM PARM_NAME="WHERE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="INTERACT" PARM_VALUE="Contains"/>
-#!     <XFORM_PARM PARM_NAME="FEATURETYPES" PARM_VALUE="gemeenten"/>
-#!     <XFORM_PARM PARM_NAME="WFS_OUTPUT_FORMAT" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_LOCAL_CACHE_EXPIRY" PARM_VALUE="60"/>
-#!     <XFORM_PARM PARM_NAME="WFS_XML_FRAGMENTS_AS_DOCUMENTS" PARM_VALUE="YES"/>
-#!     <XFORM_PARM PARM_NAME="MERGE_HANDLING_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_DISABLE_XML_NAMESPACE_PROCESSING" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="WFS_USE_OLD_READER" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="WFS_FLATTEN_XML_FRAGMENTS" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="OUTPUT_PORTS_MODE" PARM_VALUE="PORTS_FROM_FTTR"/>
-#!     <XFORM_PARM PARM_NAME="WFS_TABLELIST" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_GML_READER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_MAP_GEOMETRY_COLUMNS" PARM_VALUE="YES"/>
-#!     <XFORM_PARM PARM_NAME="WFS_FILTER_EXPRESSION" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SELECTED_PORTS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="WFS_MAP_COMPLEX_PROPERTIES_AS" PARM_VALUE="Nested Attributes"/>
-#!     <XFORM_PARM PARM_NAME="WFS_SRS_AXIS_ORDER" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="WFS_ENFORCE_PATH_CONTINUITY_BY" PARM_VALUE="SNAPPING_END_POINTS"/>
 #!     <XFORM_PARM PARM_NAME="WFS_XSD_DOC" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_PREFERRED_VERSION" PARM_VALUE="1.1.0"/>
-#!     <XFORM_PARM PARM_NAME="CACHE_TIMEOUT_HRS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="WFS_PREFER_POST" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="WFS_USE_HTTP_AUTH" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="WFS_MAP_EMBEDDED_OBJECTS_AS" PARM_VALUE="ATTRIBUTES"/>
-#!     <XFORM_PARM PARM_NAME="PORTS_FROM_FTTR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_WFS_EXPOSE_FORMAT_ATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SELECTED_PORTS" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="FORMAT_PARAMS" PARM_VALUE="WFS_XSD_DOC,&quot;OPTIONAL FILE_OR_URL GML_Schema_File(*.xsd)|*.xsd|All_Files(*)|*&quot;,WFS&lt;space&gt;Application&lt;space&gt;Schema:,WFS_DISABLE_AUTOMATIC_READER_TYPE_SELECTION,&quot;OPTIONAL CHECKBOX YES%NO&quot;,WFS&lt;space&gt;Disable&lt;space&gt;Automatic&lt;space&gt;Reader&lt;space&gt;Type&lt;space&gt;Selection,WFS_DISABLE_XML_NAMESPACE_PROCESSING,&quot;OPTIONAL CHECKBOX YES%NO&quot;,WFS&lt;space&gt;Disable&lt;space&gt;XML&lt;space&gt;Namespace&lt;space&gt;Processing,WFS_MAX_RESULT_FEATURES,&quot;OPTIONAL INTEGER&quot;,WFS&lt;space&gt;Max&lt;space&gt;Features:,WFS_PREFERRED_VERSION,&quot;OPTIONAL CHOICE 1.0.0%1.1.0%2.0.0&quot;,WFS&lt;space&gt;WFS&lt;space&gt;Version:,WFS_USE_PROXY_SERVER,&quot;OPTIONAL ACTIVEDISCLOSUREGROUP HTTP_PROXY%HTTP_PROXY_PORT%HTTP_PROXY_USER%HTTP_PROXY_PASSWORD%HTTP_PROXY_AUTH_METHOD&quot;,WFS&lt;space&gt;Use&lt;space&gt;Proxy&lt;space&gt;Server,WFS_OUTPUT_FORMAT,&quot;OPTIONAL STRING_OR_CHOICE&quot;,WFS&lt;space&gt;WFS&lt;space&gt;Output&lt;space&gt;Format:,WFS_USE_HTTP_AUTH,&quot;OPTIONAL ACTIVEDISCLOSUREGROUP HTTP_AUTH_USER%HTTP_AUTH_PASSWORD%HTTP_AUTH_METHOD&quot;,WFS&lt;space&gt;Use&lt;space&gt;HTTP&lt;space&gt;Authentication,WFS_MAP_COMPLEX_PROPERTIES_AS,&quot;OPTIONAL ACTIVECHOICE &quot;&quot;Nested Attributes&quot;&quot;%&quot;&quot;XML Fragments&quot;&quot;,MAX_MULTI_LIST_LEVEL&quot;,WFS&lt;space&gt;Map&lt;space&gt;Complex&lt;space&gt;Properties&lt;space&gt;as:,WFS_TABLELIST,&quot;OPTIONAL WFS_FEATURE_TYPES $[DATASET],LAYER_LIST_ONLY,YES,HTTP_AUTH_USER,$[HTTP_AUTH_USER],HTTP_AUTH_PASSWORD,$[HTTP_AUTH_PASSWORD],HTTP_AUTH_METHOD,$[HTTP_AUTH_METHOD],HTTP_PROXY,$[HTTP_PROXY],HTTP_PROXY_PORT,$[HTTP_PROXY_PORT],HTTP_PROXY_USER,$[HTTP_PROXY_USER],HTTP_PROXY_PASSWORD,$[HTTP_PROXY_PASSWORD],HTTP_PROXY_AUTH_METHOD,$[HTTP_PROXY_AUTH_METHOD],PREFERRED_VERSION,$[PREFERRED_VERSION]&quot;,WFS&lt;space&gt;Feature&lt;space&gt;Types:,WFS_MAX_MULTI_LIST_LEVEL,&quot;OPTIONAL CHOICE 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20&quot;,WFS&lt;space&gt;Limit&lt;space&gt;Number&lt;space&gt;of&lt;space&gt;Lists&lt;space&gt;in&lt;space&gt;Nested&lt;space&gt;Attributes:,WFS_GML_READER_GROUP,&quot;OPTIONAL DISCLOSUREGROUP USE_OLD_READER%DISABLE_AUTOMATIC_READER_TYPE_SELECTION%DISABLE_XML_NAMESPACE_PROCESSING&quot;,WFS&lt;space&gt;GML&lt;space&gt;Reader&lt;space&gt;Version&lt;space&gt;and&lt;space&gt;XML&lt;space&gt;Namespace&lt;space&gt;Processing,WFS_CLIP_TO_ENVELOPE,&quot;OPTIONAL CHECKBOX YES%NO&quot;,WFS&lt;space&gt;Clip&lt;space&gt;to&lt;space&gt;Search&lt;space&gt;Envelope,WFS_ENFORCE_PATH_CONTINUITY_BY,&quot;OPTIONAL LOOKUP_CHOICE &quot;&quot;Snapping End Points&quot;&quot;,SNAPPING_END_POINTS%&quot;&quot;Inserting New Segment&quot;&quot;,INSERTING_NEW_SEGMENT&quot;,WFS&lt;space&gt;Enforce&lt;space&gt;Path&lt;space&gt;Continuity&lt;space&gt;By:,WFS_USE_OLD_READER,&quot;OPTIONAL CHECKBOX YES%NO&quot;,WFS&lt;space&gt;Use&lt;space&gt;Old&lt;space&gt;Reader&lt;space&gt;for&lt;space&gt;GML&lt;space&gt;v3.1.1&lt;space&gt;and&lt;space&gt;v2.1.2&lt;space&gt;Documents,WFS_QNAMES_FOR_PROPERTIES_TO_IGNORE,&quot;OPTIONAL TEXT_EDIT_XML_ENCODED&quot;,WFS&lt;space&gt;Properties&lt;space&gt;to&lt;space&gt;Ignore:,WFS_WFS_EXPOSE_FORMAT_ATTRS,&quot;IGNORE TEXT&quot;,WFS&lt;space&gt;Additional&lt;space&gt;Attributes&lt;space&gt;to&lt;space&gt;Expose:,WFS_FME_FEATURE_IDENTIFIER,&quot;OPTIONAL WFS_NUMERIC_IDENTIFIER $[DATASET],LAYER_LIST_ONLY,YES,LAYER_LIST_ONLY_INCLUDE_ATTRIBUTES,YES,HTTP_AUTH_USER,$[HTTP_AUTH_USER],HTTP_AUTH_PASSWORD,$[HTTP_AUTH_PASSWORD],HTTP_AUTH_METHOD,$[HTTP_AUTH_METHOD],HTTP_PROXY,$[HTTP_PROXY],HTTP_PROXY_PORT,$[HTTP_PROXY_PORT],HTTP_PROXY_USER,$[HTTP_PROXY_USER],HTTP_PROXY_PASSWORD,$[HTTP_PROXY_PASSWORD],HTTP_PROXY_AUTH_METHOD,$[HTTP_PROXY_AUTH_METHOD]&quot;,WFS&lt;space&gt;Numeric&lt;space&gt;Identifier&lt;space&gt;Attribute:,WFS_FILTER_EXPRESSION,&quot;OPTIONAL TEXT_EDIT__ENCODED&quot;,WFS&lt;space&gt;XML&lt;space&gt;Filter&lt;space&gt;Expression:,WFS_SRS_AXIS_ORDER,&quot;OPTIONAL CHOICE 1,2%2,1%1,2,3%2,1,3&quot;,WFS&lt;space&gt;GML&lt;space&gt;SRS&lt;space&gt;Axis&lt;space&gt;Order:,WFS_LOCAL_CACHE_EXPIRY,&quot;OPTIONAL INTEGER&quot;,WFS&lt;space&gt;Local&lt;space&gt;Cache&lt;space&gt;Expiry&lt;space&gt;&lt;openparen&gt;minutes&lt;closeparen&gt;:,WFS_USE_SEARCH_ENVELOPE,&quot;OPTIONAL ACTIVEDISCLOSUREGROUP SEARCH_ENVELOPE_MINX%SEARCH_ENVELOPE_MINY%SEARCH_ENVELOPE_MAXX%SEARCH_ENVELOPE_MAXY%CLIP_TO_ENVELOPE%BBOX_COORDINATE_SYSTEM&quot;,WFS&lt;space&gt;Use&lt;space&gt;Search&lt;space&gt;Envelope,WFS_ARCGIS_CACHE_GROUP,&quot;OPTIONAL DISCLOSUREGROUP LOCAL_CACHE_EXPIRY&quot;,WFS&lt;space&gt;ArcGIS&lt;space&gt;Cache&lt;space&gt;Expiry,WFS_EXPOSE_ATTRS_GROUP,&quot;OPTIONAL DISCLOSUREGROUP WFS_EXPOSE_FORMAT_ATTRS&quot;,WFS&lt;space&gt;Schema&lt;space&gt;Attributes,WFS_FLATTEN_XML_FRAGMENTS,&quot;OPTIONAL ACTIVEDISCLOSUREGROUP FLATTEN_XML_FRAGMENTS_OPEN_LIST_BRACE%FLATTEN_XML_FRAGMENTS_CLOSE_LIST_BRACE%FLATTEN_XML_FRAGMENTS_SEPARATOR&quot;,WFS&lt;space&gt;Flatten&lt;space&gt;XML&lt;space&gt;Fragments,WFS_MAP_GEOMETRY_COLUMNS,&quot;OPTIONAL CHECKBOX YES%NO&quot;,WFS&lt;space&gt;Map&lt;space&gt;Geometry&lt;space&gt;Columns,WFS_SRS_ANGLE_DIRECTION,&quot;OPTIONAL LOOKUP_CHOICE Counterclockwise,CCW%Clockwise,CW&quot;,WFS&lt;space&gt;GML&lt;space&gt;SRS&lt;space&gt;Angle&lt;space&gt;Direction:,WFS_PREFER_POST,&quot;OPTIONAL CHECKBOX Yes%No&quot;,WFS&lt;space&gt;Prefer&lt;space&gt;HTTP&lt;space&gt;Post&lt;comma&gt;&lt;space&gt;if&lt;space&gt;Available:,WFS_XML_FRAGMENTS_AS_DOCUMENTS,&quot;OPTIONAL CHECKBOX YES%NO&quot;,WFS&lt;space&gt;Include&lt;space&gt;XML&lt;space&gt;Declaration&lt;space&gt;in&lt;space&gt;XML&lt;space&gt;Fragments,WFS_MAP_EMBEDDED_OBJECTS_AS,&quot;OPTIONAL LOOKUP_CHOICE &quot;&quot;Attributes&quot;&quot;,ATTRIBUTES%&quot;&quot;Geometries&quot;&quot;,GEOMETRIES%&quot;&quot;Feature Types&quot;&quot;,FEATURE_TYPES&quot;,WFS&lt;space&gt;Map&lt;space&gt;Embedded&lt;space&gt;Objects&lt;space&gt;as:,WFS_MAP_PREDEFINED_GML_PROPERTIES,&quot;OPTIONAL CHECKBOX YES%NO&quot;,WFS&lt;space&gt;Map&lt;space&gt;Predefined&lt;space&gt;Properties"/>
-#!     <XFORM_PARM PARM_NAME="WFS_SRS_ANGLE_DIRECTION" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="FORMAT_DIRECTIVES" PARM_VALUE="META_MACROS,SourceGML_READER_GROUP&lt;comma&gt;&lt;comma&gt;SourceUSE_PROXY_SERVER&lt;comma&gt;NO&lt;comma&gt;SourceXML_FRAGMENTS_AS_DOCUMENTS&lt;comma&gt;YES&lt;comma&gt;SourceARCGIS_CACHE_GROUP&lt;comma&gt;&lt;comma&gt;SourceFLATTEN_XML_FRAGMENTS&lt;comma&gt;NO&lt;comma&gt;SourceXSD_DOC&lt;comma&gt;&lt;comma&gt;SourceMAX_RESULT_FEATURES&lt;comma&gt;30000&lt;comma&gt;SourceMAP_EMBEDDED_OBJECTS_AS&lt;comma&gt;ATTRIBUTES&lt;comma&gt;SourceMAX_MULTI_LIST_LEVEL&lt;comma&gt;&lt;comma&gt;SourceFME_FEATURE_IDENTIFIER&lt;comma&gt;&lt;comma&gt;SourceLOCAL_CACHE_EXPIRY&lt;comma&gt;60&lt;comma&gt;SourceUSE_SEARCH_ENVELOPE&lt;comma&gt;NO&lt;comma&gt;SourceFILTER_EXPRESSION&lt;comma&gt;&lt;comma&gt;SourceMAP_PREDEFINED_GML_PROPERTIES&lt;comma&gt;NO&lt;comma&gt;SourceUSE_OLD_READER&lt;comma&gt;NO&lt;comma&gt;SourcePREFER_POST&lt;comma&gt;No&lt;comma&gt;SourceUSE_HTTP_AUTH&lt;comma&gt;NO&lt;comma&gt;SourceQNAMES_FOR_PROPERTIES_TO_IGNORE&lt;comma&gt;&lt;comma&gt;SourceDISABLE_AUTOMATIC_READER_TYPE_SELECTION&lt;comma&gt;NO&lt;comma&gt;SourceEXPOSE_ATTRS_GROUP&lt;comma&gt;&lt;comma&gt;SourceDISABLE_XML_NAMESPACE_PROCESSING&lt;comma&gt;NO&lt;comma&gt;SourceMAP_GEOMETRY_COLUMNS&lt;comma&gt;YES&lt;comma&gt;SourceWFS_EXPOSE_FORMAT_ATTRS&lt;comma&gt;&lt;comma&gt;SourceSRS_ANGLE_DIRECTION&lt;comma&gt;&lt;comma&gt;SourceENFORCE_PATH_CONTINUITY_BY&lt;comma&gt;SNAPPING_END_POINTS&lt;comma&gt;SourceSRS_AXIS_ORDER&lt;comma&gt;&lt;comma&gt;SourceCLIP_TO_ENVELOPE&lt;comma&gt;NO&lt;comma&gt;SourceOUTPUT_FORMAT&lt;comma&gt;&lt;comma&gt;SourcePREFERRED_VERSION&lt;comma&gt;1.1.0&lt;comma&gt;SourceMAP_COMPLEX_PROPERTIES_AS&lt;comma&gt;&lt;quote&gt;Nested&lt;space&gt;Attributes&lt;quote&gt;,METAFILE,WFS,IDLIST,"/>
-#!     <XFORM_PARM PARM_NAME="FEATURETYPES_RADIO" PARM_VALUE="FEATURETYPES"/>
-#!     <XFORM_PARM PARM_NAME="WFS_USE_PROXY_SERVER" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="ATTRS_TO_EXPOSE" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_CLIP_TO_ENVELOPE" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="SUPPORTED_SPATIAL_INTERACTIONS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_QNAMES_FOR_PROPERTIES_TO_IGNORE" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Only Use Result"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WFS_ARCGIS_CACHE_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTES" PARM_VALUE="gemeenten,&quot;gml_parent_id,gml_id,gid,gid.xsi_nil,code,code.xsi_nil,gemeentenaam,gemeentenaam.xsi_nil,geom,fme_geometry{0},fme_geometry{1},fme_geometry{2},fme_geometry{3},fme_geometry{4},fme_geometry{5},fme_geometry{6},fme_geometry{7}&quot;"/>
-#!     <XFORM_PARM PARM_NAME="WFS_FME_FEATURE_IDENTIFIER" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="DATASET" PARM_VALUE="https:&lt;solidus&gt;&lt;solidus&gt;geodata.nationaalgeoregister.nl&lt;solidus&gt;bestuurlijkegrenzen&lt;solidus&gt;wfs?"/>
-#!     <XFORM_PARM PARM_NAME="COMBINE_GEOM" PARM_VALUE="Use Result"/>
-#!     <XFORM_PARM PARM_NAME="ENABLE_CACHE" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureReader"/>
+#!     <XFORM_PARM PARM_NAME="INTERACT" PARM_VALUE="Contains"/>
+#!     <XFORM_PARM PARM_NAME="WFS_QNAMES_FOR_PROPERTIES_TO_IGNORE" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WFS_MAX_MULTI_LIST_LEVEL" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WFS_ARCGIS_CACHE_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PORTS_FROM_FTTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WFS_PREFER_POST" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="WFS_CLIP_TO_ENVELOPE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SUPPORTED_SPATIAL_INTERACTIONS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FORMAT" PARM_VALUE="WFS"/>
+#!     <XFORM_PARM PARM_NAME="WFS_USE_HTTP_AUTH" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUTPORTS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WFS_USE_OLD_READER" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="FEATURETYPES" PARM_VALUE="gemeenten"/>
+#!     <XFORM_PARM PARM_NAME="CACHE_TIMEOUT_HRS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="WFS_WFS_EXPOSE_FORMAT_ATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="AVAILABLE_FEATURE_TYPES" PARM_VALUE="gemeenten"/>
+#!     <XFORM_PARM PARM_NAME="WFS_DISABLE_AUTOMATIC_READER_TYPE_SELECTION" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MERGE_HANDLING_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WFS_OUTPUT_FORMAT" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WHERE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="WFS_SRS_AXIS_ORDER" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="CONSTRAINTS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SINGLE_PORT" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="FTTR_SEPARATOR" PARM_VALUE="SPACE"/>
+#!     <XFORM_PARM PARM_NAME="WFS_PREFERRED_VERSION" PARM_VALUE="1.1.0"/>
+#!     <XFORM_PARM PARM_NAME="WFS_MAP_GEOMETRY_COLUMNS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_PORTS_MODE" PARM_VALUE="PORTS_FROM_FTTR"/>
+#!     <XFORM_PARM PARM_NAME="ATTRS_TO_EXPOSE" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="FEATURETYPES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="FEATURETYPES_RADIO" PARM_VALUE="FEATURETYPES"/>
+#!     <XFORM_PARM PARM_NAME="WFS_SRS_ANGLE_DIRECTION" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WFS_MAP_PREDEFINED_GML_PROPERTIES" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="WFS_MAX_RESULT_FEATURES" PARM_VALUE="30000"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureReader"/>
+#!     <XFORM_PARM PARM_NAME="WFS_GML_READER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WFS_FLATTEN_XML_FRAGMENTS" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="WFS_ENFORCE_PATH_CONTINUITY_BY" PARM_VALUE="SNAPPING_END_POINTS"/>
+#!     <XFORM_PARM PARM_NAME="WFS_MAP_COMPLEX_PROPERTIES_AS" PARM_VALUE="Nested Attributes"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Only Use Result"/>
+#!     <XFORM_PARM PARM_NAME="WFS_FME_FEATURE_IDENTIFIER" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WFS_USE_SEARCH_ENVELOPE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="WFS_TABLELIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DATASET" PARM_VALUE="https:&lt;solidus&gt;&lt;solidus&gt;geodata.nationaalgeoregister.nl&lt;solidus&gt;bestuurlijkegrenzen&lt;solidus&gt;wfs?"/>
+#!     <XFORM_PARM PARM_NAME="WFS_USE_PROXY_SERVER" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_DIRECTIVES" PARM_VALUE="META_MACROS,SourceGML_READER_GROUP&lt;comma&gt;&lt;comma&gt;SourceUSE_PROXY_SERVER&lt;comma&gt;NO&lt;comma&gt;SourceXML_FRAGMENTS_AS_DOCUMENTS&lt;comma&gt;YES&lt;comma&gt;SourceARCGIS_CACHE_GROUP&lt;comma&gt;&lt;comma&gt;SourceFLATTEN_XML_FRAGMENTS&lt;comma&gt;NO&lt;comma&gt;SourceXSD_DOC&lt;comma&gt;&lt;comma&gt;SourceMAX_RESULT_FEATURES&lt;comma&gt;30000&lt;comma&gt;SourceMAP_EMBEDDED_OBJECTS_AS&lt;comma&gt;ATTRIBUTES&lt;comma&gt;SourceMAX_MULTI_LIST_LEVEL&lt;comma&gt;&lt;comma&gt;SourceFME_FEATURE_IDENTIFIER&lt;comma&gt;&lt;comma&gt;SourceLOCAL_CACHE_EXPIRY&lt;comma&gt;60&lt;comma&gt;SourceUSE_SEARCH_ENVELOPE&lt;comma&gt;NO&lt;comma&gt;SourceFILTER_EXPRESSION&lt;comma&gt;&lt;comma&gt;SourceMAP_PREDEFINED_GML_PROPERTIES&lt;comma&gt;NO&lt;comma&gt;SourceUSE_OLD_READER&lt;comma&gt;NO&lt;comma&gt;SourcePREFER_POST&lt;comma&gt;No&lt;comma&gt;SourceUSE_HTTP_AUTH&lt;comma&gt;NO&lt;comma&gt;SourceQNAMES_FOR_PROPERTIES_TO_IGNORE&lt;comma&gt;&lt;comma&gt;SourceDISABLE_AUTOMATIC_READER_TYPE_SELECTION&lt;comma&gt;NO&lt;comma&gt;SourceEXPOSE_ATTRS_GROUP&lt;comma&gt;&lt;comma&gt;SourceDISABLE_XML_NAMESPACE_PROCESSING&lt;comma&gt;NO&lt;comma&gt;SourceMAP_GEOMETRY_COLUMNS&lt;comma&gt;YES&lt;comma&gt;SourceWFS_EXPOSE_FORMAT_ATTRS&lt;comma&gt;&lt;comma&gt;SourceSRS_ANGLE_DIRECTION&lt;comma&gt;&lt;comma&gt;SourceENFORCE_PATH_CONTINUITY_BY&lt;comma&gt;SNAPPING_END_POINTS&lt;comma&gt;SourceSRS_AXIS_ORDER&lt;comma&gt;&lt;comma&gt;SourceCLIP_TO_ENVELOPE&lt;comma&gt;NO&lt;comma&gt;SourceOUTPUT_FORMAT&lt;comma&gt;&lt;comma&gt;SourcePREFERRED_VERSION&lt;comma&gt;1.1.0&lt;comma&gt;SourceMAP_COMPLEX_PROPERTIES_AS&lt;comma&gt;&lt;quote&gt;Nested&lt;space&gt;Attributes&lt;quote&gt;,METAFILE,WFS,IDLIST,"/>
+#!     <XFORM_PARM PARM_NAME="COMBINE_GEOM" PARM_VALUE="Use Result"/>
+#!     <XFORM_PARM PARM_NAME="WFS_EXPOSE_ATTRS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WFS_LOCAL_CACHE_EXPIRY" PARM_VALUE="60"/>
+#!     <XFORM_PARM PARM_NAME="WFS_DISABLE_XML_NAMESPACE_PROCESSING" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="WFS_MAP_EMBEDDED_OBJECTS_AS" PARM_VALUE="ATTRIBUTES"/>
+#!     <XFORM_PARM PARM_NAME="WFS_XML_FRAGMENTS_AS_DOCUMENTS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="WFS_FILTER_EXPRESSION" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SINGLE_PORT" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ENABLE_CACHE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="37"
@@ -2039,46 +1989,46 @@
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="USE_COOKIES" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="CUSTOM_HEADERS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="UPLOAD_CONTENT_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="STATUS_CODE_ATTR" PARM_VALUE="_http_status_code"/>
-#!     <XFORM_PARM PARM_NAME="AUTH_METHOD" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="UPLOAD_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="UPLOAD_FILE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="HTTP_METHOD" PARM_VALUE="GET"/>
-#!     <XFORM_PARM PARM_NAME="HTTP_AUTH_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="MULTIPART_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="OUTPUT_FILENAME" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFER_TIMEOUT_LENGTH" PARM_VALUE="90"/>
-#!     <XFORM_PARM PARM_NAME="SAVE_MULTI" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ADVANCED_RESPONSE_PARAMETERS" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="TARGET_ATTR_ENCODING" PARM_VALUE="auto-detect"/>
-#!     <XFORM_PARM PARM_NAME="ADDITIONAL_URL_PARAMETERS" PARM_VALUE="action;search srcountry;nl-gem srmunicipality;%&lt;at&gt;Value&lt;openparen&gt;gemeentenaam&lt;closeparen&gt;% format;XML limit;10000"/>
-#!     <XFORM_PARM PARM_NAME="HTTP_RESPONSE_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="UPLOAD_BODY" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="FOLLOW_REDIRECTS" PARM_VALUE="Yes"/>
-#!     <XFORM_PARM PARM_NAME="AUTH_NAMED_CONNECTION" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="FILE_PATH_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AUTH_METHOD" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTIPARTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AUTH_PASSWORD" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFER_TIMEOUT_LENGTH" PARM_VALUE="90"/>
+#!     <XFORM_PARM PARM_NAME="CUSTOM_HEADERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="AUTH_USERNAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ERROR_ATTR" PARM_VALUE="_error"/>
+#!     <XFORM_PARM PARM_NAME="ADDITIONAL_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="ADVANCED_RESPONSE_PARAMETERS" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="SAVE_MULTI" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ADDITIONAL_URL_PARAMETERS" PARM_VALUE="action;search srcountry;nl-gem srmunicipality;%&lt;at&gt;Value&lt;openparen&gt;gemeentenaam&lt;closeparen&gt;% format;XML limit;10000"/>
+#!     <XFORM_PARM PARM_NAME="RESPONSE_HEADER_LIST_ATTR" PARM_VALUE="_headers"/>
+#!     <XFORM_PARM PARM_NAME="RESPONSE_FILE_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_FILENAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TARGET_ATTR" PARM_VALUE="_response_body"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_DIRNAME" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="UPLOAD_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TARGET_URL" PARM_VALUE="http:&lt;solidus&gt;&lt;solidus&gt;tools.wmflabs.org&lt;solidus&gt;heritage&lt;solidus&gt;api&lt;solidus&gt;api.php?"/>
-#!     <XFORM_PARM PARM_NAME="ERROR_ATTR" PARM_VALUE="_error"/>
-#!     <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
-#!     <XFORM_PARM PARM_NAME="MULTIPARTS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="RESPONSE_FILE_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="AUTH_PASSWORD" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="RESPONSE_HEADER_LIST_ATTR" PARM_VALUE="_headers"/>
+#!     <XFORM_PARM PARM_NAME="UPLOAD_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="HTTP_RESPONSE_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ADVANCED_REQUEST_PARAMETERS" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="AUTH_USERNAME" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TARGET_ATTR" PARM_VALUE="_response_body"/>
-#!     <XFORM_PARM PARM_NAME="FILE_PATH_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CUSTOM_HEADERS_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="ADDITIONAL_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <XFORM_PARM PARM_NAME="SAVE_FILE" PARM_VALUE="Attribute"/>
-#!     <XFORM_PARM PARM_NAME="CONNECTION_TIMEOUT_LENGTH" PARM_VALUE="60"/>
-#!     <XFORM_PARM PARM_NAME="HTTPURL_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="OUTPUT_DIRNAME" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="HTTPCaller"/>
+#!     <XFORM_PARM PARM_NAME="UPLOAD_BODY" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="USE_COOKIES" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="TARGET_ATTR_ENCODING" PARM_VALUE="auto-detect"/>
+#!     <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="UPLOAD_FILE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AUTH_NAMED_CONNECTION" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="STATUS_CODE_ATTR" PARM_VALUE="_http_status_code"/>
+#!     <XFORM_PARM PARM_NAME="MULTIPART_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="HTTPURL_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SAVE_FILE" PARM_VALUE="Attribute"/>
+#!     <XFORM_PARM PARM_NAME="UPLOAD_CONTENT_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="CUSTOM_HEADERS_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="HTTP_METHOD" PARM_VALUE="GET"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CONNECTION_TIMEOUT_LENGTH" PARM_VALUE="60"/>
+#!     <XFORM_PARM PARM_NAME="HTTP_AUTH_GROUP" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="40"
@@ -2108,15 +2058,15 @@
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="LIST_ATTR" PARM_VALUE="$(List)"/>
-#!     <XFORM_PARM PARM_NAME="INDEX_ATTR" PARM_VALUE="_element_index"/>
-#!     <XFORM_PARM PARM_NAME="INCOMING_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Incoming List"/>
 #!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Original"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Incoming List"/>
+#!     <XFORM_PARM PARM_NAME="INDEX_ATTR" PARM_VALUE="_element_index"/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="INCOMING_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTR" PARM_VALUE="$(List)"/>
 #!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListExploder"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="43"
@@ -2190,46 +2140,46 @@
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="USE_COOKIES" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="CUSTOM_HEADERS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="UPLOAD_CONTENT_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="STATUS_CODE_ATTR" PARM_VALUE="_http_status_code"/>
-#!     <XFORM_PARM PARM_NAME="AUTH_METHOD" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="UPLOAD_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="UPLOAD_FILE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="HTTP_METHOD" PARM_VALUE="GET"/>
-#!     <XFORM_PARM PARM_NAME="HTTP_AUTH_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="MULTIPART_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="OUTPUT_FILENAME" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFER_TIMEOUT_LENGTH" PARM_VALUE="90"/>
-#!     <XFORM_PARM PARM_NAME="SAVE_MULTI" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ADVANCED_RESPONSE_PARAMETERS" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="TARGET_ATTR_ENCODING" PARM_VALUE="auto-detect"/>
-#!     <XFORM_PARM PARM_NAME="ADDITIONAL_URL_PARAMETERS" PARM_VALUE="service;wfs version;2.0.0 request;GetFeature typeName;bag:woonplaats cql_filter;intersects&lt;openparen&gt;bag:geometrie&lt;comma&gt;point&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;x&lt;closeparen&gt;&lt;space&gt;&lt;at&gt;Value&lt;openparen&gt;y&lt;closeparen&gt;&lt;closeparen&gt;&lt;closeparen&gt;"/>
-#!     <XFORM_PARM PARM_NAME="HTTP_RESPONSE_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="UPLOAD_BODY" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="FOLLOW_REDIRECTS" PARM_VALUE="Yes"/>
-#!     <XFORM_PARM PARM_NAME="AUTH_NAMED_CONNECTION" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="FILE_PATH_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AUTH_METHOD" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTIPARTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AUTH_PASSWORD" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFER_TIMEOUT_LENGTH" PARM_VALUE="90"/>
+#!     <XFORM_PARM PARM_NAME="CUSTOM_HEADERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="AUTH_USERNAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ERROR_ATTR" PARM_VALUE="_error"/>
+#!     <XFORM_PARM PARM_NAME="ADDITIONAL_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="ADVANCED_RESPONSE_PARAMETERS" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="SAVE_MULTI" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ADDITIONAL_URL_PARAMETERS" PARM_VALUE="service;wfs version;2.0.0 request;GetFeature typeName;bag:woonplaats cql_filter;intersects&lt;openparen&gt;bag:geometrie&lt;comma&gt;point&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;x&lt;closeparen&gt;&lt;space&gt;&lt;at&gt;Value&lt;openparen&gt;y&lt;closeparen&gt;&lt;closeparen&gt;&lt;closeparen&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RESPONSE_HEADER_LIST_ATTR" PARM_VALUE="_headers"/>
+#!     <XFORM_PARM PARM_NAME="RESPONSE_FILE_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_FILENAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TARGET_ATTR" PARM_VALUE="_response_body"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_DIRNAME" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="UPLOAD_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TARGET_URL" PARM_VALUE="http:&lt;solidus&gt;&lt;solidus&gt;geodata.nationaalgeoregister.nl&lt;solidus&gt;bag&lt;solidus&gt;wfs?"/>
-#!     <XFORM_PARM PARM_NAME="ERROR_ATTR" PARM_VALUE="_error"/>
-#!     <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
-#!     <XFORM_PARM PARM_NAME="MULTIPARTS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="RESPONSE_FILE_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="AUTH_PASSWORD" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="RESPONSE_HEADER_LIST_ATTR" PARM_VALUE="_headers"/>
+#!     <XFORM_PARM PARM_NAME="UPLOAD_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="HTTP_RESPONSE_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ADVANCED_REQUEST_PARAMETERS" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="AUTH_USERNAME" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TARGET_ATTR" PARM_VALUE="_response_body"/>
-#!     <XFORM_PARM PARM_NAME="FILE_PATH_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CUSTOM_HEADERS_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="ADDITIONAL_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <XFORM_PARM PARM_NAME="SAVE_FILE" PARM_VALUE="Attribute"/>
-#!     <XFORM_PARM PARM_NAME="CONNECTION_TIMEOUT_LENGTH" PARM_VALUE="60"/>
-#!     <XFORM_PARM PARM_NAME="HTTPURL_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="OUTPUT_DIRNAME" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="HTTPCaller_2"/>
+#!     <XFORM_PARM PARM_NAME="UPLOAD_BODY" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="USE_COOKIES" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="TARGET_ATTR_ENCODING" PARM_VALUE="auto-detect"/>
+#!     <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="UPLOAD_FILE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AUTH_NAMED_CONNECTION" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="STATUS_CODE_ATTR" PARM_VALUE="_http_status_code"/>
+#!     <XFORM_PARM PARM_NAME="MULTIPART_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="HTTPURL_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SAVE_FILE" PARM_VALUE="Attribute"/>
+#!     <XFORM_PARM PARM_NAME="UPLOAD_CONTENT_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="CUSTOM_HEADERS_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="HTTP_METHOD" PARM_VALUE="GET"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CONNECTION_TIMEOUT_LENGTH" PARM_VALUE="60"/>
+#!     <XFORM_PARM PARM_NAME="HTTP_AUTH_GROUP" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="46"
@@ -2270,16 +2220,16 @@
 #!     <XFORM_ATTR ATTR_NAME="monument_article" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="yes"/>
+#!     <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;backslash&gt;&lt;opencurly&gt;&lt;backslash&gt;&lt;opencurly&gt;&lt;openbracket&gt;^&lt;backslash&gt;|&lt;closebracket&gt;+&lt;backslash&gt;|&lt;openbracket&gt;^&lt;backslash&gt;|&lt;closebracket&gt;+&lt;backslash&gt;|||&lt;backslash&gt;&lt;closecurly&gt;&lt;backslash&gt;&lt;closecurly&gt;||&lt;backslash&gt;&lt;openbracket&gt;&lt;backslash&gt;&lt;openbracket&gt;&lt;openbracket&gt;^&lt;backslash&gt;|&lt;closebracket&gt;+&lt;backslash&gt;|||&lt;backslash&gt;&lt;openbracket&gt;&lt;backslash&gt;&lt;openbracket&gt;||&lt;backslash&gt;&lt;closebracket&gt;&lt;backslash&gt;&lt;closebracket&gt;"/>
 #!     <XFORM_PARM PARM_NAME="CASE" PARM_VALUE="no"/>
 #!     <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;backslash&gt;&lt;opencurly&gt;&lt;backslash&gt;&lt;opencurly&gt;&lt;openbracket&gt;^&lt;backslash&gt;|&lt;closebracket&gt;+&lt;backslash&gt;|&lt;openbracket&gt;^&lt;backslash&gt;|&lt;closebracket&gt;+&lt;backslash&gt;|||&lt;backslash&gt;&lt;closecurly&gt;&lt;backslash&gt;&lt;closecurly&gt;||&lt;backslash&gt;&lt;openbracket&gt;&lt;backslash&gt;&lt;openbracket&gt;&lt;openbracket&gt;^&lt;backslash&gt;|&lt;closebracket&gt;+&lt;backslash&gt;|||&lt;backslash&gt;&lt;openbracket&gt;&lt;backslash&gt;&lt;openbracket&gt;||&lt;backslash&gt;&lt;closebracket&gt;&lt;backslash&gt;&lt;closebracket&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="yes"/>
+#!     <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="address,adm2,municipality,name"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringReplacer"/>
-#!     <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="47"
@@ -2320,16 +2270,16 @@
 #!     <XFORM_ATTR ATTR_NAME="monument_article" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="yes"/>
+#!     <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;lt&gt;br&lt;openbracket&gt;&lt;backslash&gt;s&lt;closebracket&gt;*&lt;solidus&gt;&lt;gt&gt;"/>
 #!     <XFORM_PARM PARM_NAME="CASE" PARM_VALUE="no"/>
 #!     <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;lt&gt;br&lt;openbracket&gt;&lt;backslash&gt;s&lt;closebracket&gt;*&lt;solidus&gt;&lt;gt&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="yes"/>
+#!     <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="address,name"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringReplacer_2"/>
-#!     <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="48"
@@ -2388,10 +2338,10 @@
 #!     <XFORM_ATTR ATTR_NAME="monument_article" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="KEYATTR" PARM_VALUE="address adm0 adm1 adm2 adm3 adm4 changed commonscat country id image lang lat lon monument_article municipality name registrant_url source"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="DuplicateRemover"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="KEYATTR" PARM_VALUE="address adm0 adm1 adm2 adm3 adm4 changed commonscat country id image lang lat lon monument_article municipality name registrant_url source"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="DuplicateRemover"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="52"
@@ -2412,17 +2362,17 @@
 #!     <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTRS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="CASE_DISP" PARM_VALUE="yes"/>
 #!     <XFORM_PARM PARM_NAME="CASE_CHANGE_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="PATTERN_ACTION_DISP" PARM_VALUE="Remove Prefix String"/>
+#!     <XFORM_PARM PARM_NAME="CASE_DISP" PARM_VALUE="yes"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="REPLACE_STR" PARM_VALUE="monument."/>
+#!     <XFORM_PARM PARM_NAME="ATTRS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRCHOICE" PARM_VALUE="All Attributes"/>
 #!     <XFORM_PARM PARM_NAME="REPLACE_PATTERN" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="BulkAttributeRenamer"/>
-#!     <XFORM_PARM PARM_NAME="PATTERN_ACTION_DISP" PARM_VALUE="Remove Prefix String"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="56"
@@ -2463,16 +2413,16 @@
 #!     <XFORM_ATTR ATTR_NAME="monument_article" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="no"/>
+#!     <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;amp&gt;nbsp&lt;semicolon&gt;"/>
 #!     <XFORM_PARM PARM_NAME="CASE" PARM_VALUE="no"/>
 #!     <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;amp&gt;nbsp&lt;semicolon&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="no"/>
+#!     <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE="&lt;space&gt;"/>
 #!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="address,name"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringReplacer_3"/>
-#!     <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE="&lt;space&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="62"
@@ -2513,13 +2463,13 @@
 #!     <XFORM_ATTR ATTR_NAME="monument_article" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="image,&quot;FME_CONDITIONAL:DEFAULT_VALUE&apos;http:&lt;solidus&gt;&lt;solidus&gt;commons.wikimedia.org&lt;solidus&gt;wiki&lt;solidus&gt;File:&lt;at&gt;Value&lt;openparen&gt;image&lt;closeparen&gt;#&lt;solidus&gt;media&lt;solidus&gt;File:&lt;at&gt;Value&lt;openparen&gt;image&lt;closeparen&gt;&apos;BOOL_OP;OR;COMPOSITE_TEST;&lt;Unused&gt;;TEST image ATTRIBUTE_IS_EMPTY _FME_BLANK_STRING_&apos;&lt;at&gt;Value&lt;openparen&gt;image&lt;closeparen&gt;&apos;FME_NUM_CONDITIONS2___&quot;,source,&quot;FME_CONDITIONAL:DEFAULT_VALUE&apos;http:&lt;at&gt;Value&lt;openparen&gt;source&lt;closeparen&gt;&apos;BOOL_OP;OR;COMPOSITE_TEST;&lt;Unused&gt;;TEST source ATTRIBUTE_IS_EMPTY _FME_BLANK_STRING_&apos;&lt;at&gt;Value&lt;openparen&gt;source&lt;closeparen&gt;&apos;FME_NUM_CONDITIONS2___&quot;"/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="image,&quot;FME_CONDITIONAL:DEFAULT_VALUE&apos;http:&lt;solidus&gt;&lt;solidus&gt;commons.wikimedia.org&lt;solidus&gt;wiki&lt;solidus&gt;File:&lt;at&gt;Value&lt;openparen&gt;image&lt;closeparen&gt;#&lt;solidus&gt;media&lt;solidus&gt;File:&lt;at&gt;Value&lt;openparen&gt;image&lt;closeparen&gt;&apos;BOOL_OP;OR;COMPOSITE_TEST;&lt;Unused&gt;;TEST image ATTRIBUTE_IS_EMPTY _FME_BLANK_STRING_&apos;&lt;at&gt;Value&lt;openparen&gt;image&lt;closeparen&gt;&apos;FME_NUM_CONDITIONS2___&quot;,source,&quot;FME_CONDITIONAL:DEFAULT_VALUE&apos;http:&lt;at&gt;Value&lt;openparen&gt;source&lt;closeparen&gt;&apos;BOOL_OP;OR;COMPOSITE_TEST;&lt;Unused&gt;;TEST source ATTRIBUTE_IS_EMPTY _FME_BLANK_STRING_&apos;&lt;at&gt;Value&lt;openparen&gt;source&lt;closeparen&gt;&apos;FME_NUM_CONDITIONS2___&quot;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="59"
@@ -2555,11 +2505,11 @@
 #!     <XFORM_ATTR ATTR_NAME="monument_article" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="_element_index,_http_status_code,_response_body"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE="_headers&lt;opencurly&gt;&lt;closecurly&gt; _headers&lt;opencurly&gt;&lt;closecurly&gt;.name _headers&lt;opencurly&gt;&lt;closecurly&gt;.value"/>
+#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="_element_index,_http_status_code,_response_body"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="79"
@@ -2628,8 +2578,8 @@
 #!     <XFORM_ATTR ATTR_NAME="monument_article" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="BOOL_OP&lt;comma&gt;OR&lt;comma&gt;COMPOSITE_TEST&lt;comma&gt;&lt;lt&gt;Unused&lt;gt&gt;&lt;comma&gt;TEST_CLAUSE&lt;comma&gt;&lt;quote&gt;TEST&lt;space&gt;id&lt;space&gt;ATTRIBUTE_IS_MISSING&lt;space&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;,id&lt;space&gt;ATTRIBUTE_IS_MISSING"/>
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="BOOL_OP&lt;comma&gt;OR&lt;comma&gt;COMPOSITE_TEST&lt;comma&gt;&lt;lt&gt;Unused&lt;gt&gt;&lt;comma&gt;TEST_CLAUSE&lt;comma&gt;&lt;quote&gt;TEST&lt;space&gt;id&lt;space&gt;ATTRIBUTE_IS_MISSING&lt;space&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;,id&lt;space&gt;ATTRIBUTE_IS_MISSING"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="TestFilter_2"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -2689,8 +2639,8 @@
 #!     <XFORM_ATTR ATTR_NAME="monument_article" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="BOOL_OP&lt;comma&gt;OR&lt;comma&gt;COMPOSITE_TEST&lt;comma&gt;&lt;lt&gt;Unused&lt;gt&gt;&lt;comma&gt;TEST_CLAUSE&lt;comma&gt;&lt;quote&gt;TEST&lt;space&gt;lat&lt;space&gt;ATTRIBUTE_IS_EMPTY&lt;space&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;lf&gt;TEST&lt;space&gt;lon&lt;space&gt;ATTRIBUTE_IS_EMPTY&lt;space&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;,lat&lt;space&gt;ATTRIBUTE_IS_EMPTY"/>
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="BOOL_OP&lt;comma&gt;OR&lt;comma&gt;COMPOSITE_TEST&lt;comma&gt;&lt;lt&gt;Unused&lt;gt&gt;&lt;comma&gt;TEST_CLAUSE&lt;comma&gt;&lt;quote&gt;TEST&lt;space&gt;lat&lt;space&gt;ATTRIBUTE_IS_EMPTY&lt;space&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;lf&gt;TEST&lt;space&gt;lon&lt;space&gt;ATTRIBUTE_IS_EMPTY&lt;space&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;,lat&lt;space&gt;ATTRIBUTE_IS_EMPTY"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="TestFilter_3"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -2727,14 +2677,14 @@
 #!     <XFORM_ATTR ATTR_NAME="monument_article" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="registrant_url" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="changed" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="DEST" PARM_VALUE="EPSG:28992"/>
 #!     <XFORM_PARM PARM_NAME="RASTER_CELL_SIZE" PARM_VALUE="Preserve Cells"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DEST" PARM_VALUE="EPSG:28992"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="SOURCE" PARM_VALUE="LL-WGS84"/>
 #!     <XFORM_PARM PARM_NAME="INTERPOLATION_TYPE_NAME" PARM_VALUE="Nearest Neighbor"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Reprojector"/>
 #!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="76"
@@ -2773,14 +2723,14 @@
 #!     <XFORM_ATTR ATTR_NAME="x" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="y" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="z" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="Z_DEFAULT" PARM_VALUE="-9999"/>
-#!     <XFORM_PARM PARM_NAME="X_ATTR" PARM_VALUE="x"/>
-#!     <XFORM_PARM PARM_NAME="IND" PARM_VALUE="0"/>
-#!     <XFORM_PARM PARM_NAME="Y_ATTR" PARM_VALUE="y"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CoordinateExtractor"/>
-#!     <XFORM_PARM PARM_NAME="Z_ATTR" PARM_VALUE="z"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="Z_ATTR" PARM_VALUE="z"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="Y_ATTR" PARM_VALUE="y"/>
+#!     <XFORM_PARM PARM_NAME="X_ATTR" PARM_VALUE="x"/>
+#!     <XFORM_PARM PARM_NAME="Z_DEFAULT" PARM_VALUE="-9999"/>
+#!     <XFORM_PARM PARM_NAME="IND" PARM_VALUE="0"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CoordinateExtractor"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="89"
@@ -2819,13 +2769,13 @@
 #!     <XFORM_ATTR ATTR_NAME="x" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="y" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="z" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="x,&lt;at&gt;round&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;x&lt;closeparen&gt;&lt;closeparen&gt;,y,&lt;at&gt;round&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;y&lt;closeparen&gt;&lt;closeparen&gt;"/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_2"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_2"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="x,&lt;at&gt;round&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;x&lt;closeparen&gt;&lt;closeparen&gt;,y,&lt;at&gt;round&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;y&lt;closeparen&gt;&lt;closeparen&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="93"
@@ -2851,10 +2801,10 @@
 #!     <XFORM_ATTR ATTR_NAME="y" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="woonplaats" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="address,code,gemeentenaam,id,image,name,source,x,y,woonplaats"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_2"/>
-#!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_2"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="91"
@@ -2879,8 +2829,8 @@
 #!     <XFORM_ATTR ATTR_NAME="x" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="y" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="woonplaats" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="name,omschrijving,,address,adres,,gemeentenaam,gemeente,,code,CBS-code,,image,afbeelding,,source,bron,,id,id-wikipedia,"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="name,omschrijving,,address,adres,,gemeentenaam,gemeente,,code,CBS-code,,image,afbeelding,,source,bron,,id,id-wikipedia,"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="115"
@@ -2897,8 +2847,8 @@
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gemeentenaam" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CoordinateSystemRemover"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CoordinateSystemRemover"/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
@@ -2921,27 +2871,9 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#!   IDENTIFIER="81"
-#!   SOURCE_NODE="78"
-#!   TARGET_NODE="80"
-#!   SOURCE_PORT_DESC="-1"
-#!   TARGET_PORT_DESC="fi 0"
-#!   ENABLED="true"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
 #!   IDENTIFIER="88"
 #!   SOURCE_NODE="83"
 #!   TARGET_NODE="87"
-#!   SOURCE_PORT_DESC="fo 0"
-#!   TARGET_PORT_DESC="fi 0"
-#!   ENABLED="true"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="35"
-#!   SOURCE_NODE="80"
-#!   TARGET_NODE="34"
 #!   SOURCE_PORT_DESC="fo 0"
 #!   TARGET_PORT_DESC="fi 0"
 #!   ENABLED="true"
@@ -3190,40 +3122,28 @@
 #!   ENABLED="true"
 #!   EXTRA_POINTS=""
 #! />
+#! <FEAT_LINK
+#!   IDENTIFIER="128"
+#!   SOURCE_NODE="78"
+#!   TARGET_NODE="34"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0"
+#!   ENABLED="true"
+#!   EXTRA_POINTS=""
+#! />
 #! </FEAT_LINKS>
 #! <BREAKPOINTS>
 #! </BREAKPOINTS>
 #! <ATTR_LINKS>
 #! <ATTR_LINK
-#!   IDENTIFIER="655485"
-#!   SOURCE_NODE="91"
-#!   TARGET_NODE="124"
-#!   SOURCE_PORT_DESC="ao 0 5"
-#!   TARGET_PORT_DESC="6"
-#! />
-#! <ATTR_LINK
 #!   IDENTIFIER="196733"
-#!   SOURCE_NODE="91"
-#!   TARGET_NODE="124"
-#!   SOURCE_PORT_DESC="ao 0 7"
-#!   TARGET_PORT_DESC="8"
-#! />
-#! <ATTR_LINK
-#!   IDENTIFIER="327805"
 #!   SOURCE_NODE="91"
 #!   TARGET_NODE="124"
 #!   SOURCE_PORT_DESC="ao 0 8"
 #!   TARGET_PORT_DESC="9"
 #! />
 #! <ATTR_LINK
-#!   IDENTIFIER="65661"
-#!   SOURCE_NODE="91"
-#!   TARGET_NODE="124"
-#!   SOURCE_PORT_DESC="ao 0 0"
-#!   TARGET_PORT_DESC="4"
-#! />
-#! <ATTR_LINK
-#!   IDENTIFIER="393341"
+#!   IDENTIFIER="327805"
 #!   SOURCE_NODE="91"
 #!   TARGET_NODE="124"
 #!   SOURCE_PORT_DESC="ao 0 1"
@@ -3233,6 +3153,20 @@
 #!   IDENTIFIER="458877"
 #!   SOURCE_NODE="91"
 #!   TARGET_NODE="124"
+#!   SOURCE_PORT_DESC="ao 0 9"
+#!   TARGET_PORT_DESC="2"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="655485"
+#!   SOURCE_NODE="91"
+#!   TARGET_NODE="124"
+#!   SOURCE_PORT_DESC="ao 0 2"
+#!   TARGET_PORT_DESC="5"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="393341"
+#!   SOURCE_NODE="91"
+#!   TARGET_NODE="124"
 #!   SOURCE_PORT_DESC="ao 0 6"
 #!   TARGET_PORT_DESC="7"
 #! />
@@ -3240,29 +3174,36 @@
 #!   IDENTIFIER="524413"
 #!   SOURCE_NODE="91"
 #!   TARGET_NODE="124"
-#!   SOURCE_PORT_DESC="ao 0 9"
-#!   TARGET_PORT_DESC="2"
-#! />
-#! <ATTR_LINK
-#!   IDENTIFIER="589949"
-#!   SOURCE_NODE="91"
-#!   TARGET_NODE="124"
 #!   SOURCE_PORT_DESC="ao 0 3"
 #!   TARGET_PORT_DESC="0"
 #! />
 #! <ATTR_LINK
-#!   IDENTIFIER="262269"
+#!   IDENTIFIER="65661"
 #!   SOURCE_NODE="91"
 #!   TARGET_NODE="124"
-#!   SOURCE_PORT_DESC="ao 0 4"
-#!   TARGET_PORT_DESC="1"
+#!   SOURCE_PORT_DESC="ao 0 5"
+#!   TARGET_PORT_DESC="6"
 #! />
 #! <ATTR_LINK
 #!   IDENTIFIER="131197"
 #!   SOURCE_NODE="91"
 #!   TARGET_NODE="124"
-#!   SOURCE_PORT_DESC="ao 0 2"
-#!   TARGET_PORT_DESC="5"
+#!   SOURCE_PORT_DESC="ao 0 7"
+#!   TARGET_PORT_DESC="8"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="262269"
+#!   SOURCE_NODE="91"
+#!   TARGET_NODE="124"
+#!   SOURCE_PORT_DESC="ao 0 0"
+#!   TARGET_PORT_DESC="4"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="589949"
+#!   SOURCE_NODE="91"
+#!   TARGET_NODE="124"
+#!   SOURCE_PORT_DESC="ao 0 4"
+#!   TARGET_PORT_DESC="1"
 #! />
 #! </ATTR_LINKS>
 #! <SUBDOCUMENTS>
@@ -3340,7 +3281,7 @@ GUI OPTIONAL INTEGER WFS_IN_MAX_RESULT_FEATURES_WFS_1 Max Features:
 DEFAULT_MACRO WFS_IN_OUTPUT_FORMAT_WFS_1 
 WFS_1_OUTPUT_FORMAT "$(WFS_IN_OUTPUT_FORMAT_WFS_1)"
 GUI OPTIONAL TEXT WFS_IN_OUTPUT_FORMAT_WFS_1 WFS Output Format:
-DEFAULT_MACRO WFS_IN_FILTER_EXPRESSION_WFS_1 
+DEFAULT_MACRO WFS_IN_FILTER_EXPRESSION_WFS_1 <lt>Filter<gt><lf><space><space><space><space><lt>PropertyIsEqualTo<gt><lf><space><space><space><space><space><space><space><space><lt>PropertyName<gt>provincienaam<lt><solidus>PropertyName<gt><lf><space><space><space><space><space><space><space><space><lt>Literal<gt>Groningen<lt><solidus>Literal<gt><lf><space><space><space><space><lt><solidus>PropertyIsEqualTo<gt><lf><lt><solidus>Filter<gt>
 WFS_1_FILTER_EXPRESSION "$(WFS_IN_FILTER_EXPRESSION_WFS_1)"
 GUI OPTIONAL TEXT_EDIT_ WFS_IN_FILTER_EXPRESSION_WFS_1 XML Filter Expression:
 DEFAULT_MACRO WFS_IN_IGNORE_APPLICATON_SCHEMA_WFS_1 no
@@ -3624,13 +3565,6 @@ WFS_1_MERGE_DEF WFS_1::provincies EXACT provincies
 FACTORY_DEF * TeeFactory    FACTORY_NAME "provincies (WFS_1) Splitter"    INPUT FEATURE_TYPE provincies    OUTPUT FEATURE_TYPE provincies_WFS_1
 DEFAULT_MACRO WB_CURRENT_CONTEXT
 # -------------------------------------------------------------------------
-
-FACTORY_DEF * TeeFactory    FACTORY_NAME TestFilter    INPUT  FEATURE_TYPE provincies_WFS_1    OUTPUT FEATURE_TYPE TestFilter_TESTFILTERINPUTLINE_0
-
-FACTORY_DEF * TestFactory FACTORY_NAME TestFilter_TestFactory_0 INPUT FEATURE_TYPE TestFilter_TESTFILTERINPUTLINE_0 TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>provincienaam<closeparen>,TestFilter) = Groningen ENCODED BOOLEAN_OPERATOR OR COMPOSITE_TEST_EXPR <Unused> OUTPUT PASSED FEATURE_TYPE TestFilter_<at>Value<openparen>provincienaam<closeparen><space>=<space>Groningen OUTPUT FAILED FEATURE_TYPE TestFilter_TESTFILTERINPUTLINE_1
-FACTORY_DEF * TeeFactory FACTORY_NAME TestFilter_<lt>UNFILTERED<gt> INPUT FEATURE_TYPE TestFilter_TESTFILTERINPUTLINE_1 OUTPUT FEATURE_TYPE TestFilter_<lt>UNFILTERED<gt>
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter <lt>UNFILTERED<gt> Output Nuker"   INPUT FEATURE_TYPE TestFilter_<lt>UNFILTERED<gt>
-# -------------------------------------------------------------------------
 MACRO FeatureReader_OUTPUT_PORTS_ENCODED gemeenten
 MACRO FeatureReader_DIRECTIVES DISABLE_AUTOMATIC_READER_TYPE_SELECTION NO DISABLE_XML_NAMESPACE_PROCESSING NO MAX_RESULT_FEATURES 30000 PREFERRED_VERSION 1.1.0 USE_PROXY_SERVER NO USE_HTTP_AUTH NO MAP_COMPLEX_PROPERTIES_AS "Nested Attributes" CLIP_TO_ENVELOPE NO ENFORCE_PATH_CONTINUITY_BY SNAPPING_END_POINTS USE_OLD_READER NO LOCAL_CACHE_EXPIRY 60 USE_SEARCH_ENVELOPE NO FLATTEN_XML_FRAGMENTS NO MAP_GEOMETRY_COLUMNS YES PREFER_POST No XML_FRAGMENTS_AS_DOCUMENTS YES MAP_EMBEDDED_OBJECTS_AS ATTRIBUTES MAP_PREDEFINED_GML_PROPERTIES NO
 
@@ -3640,16 +3574,16 @@ INCLUDE [if {{CONTAINS} == {<Unused>} } {             puts {MACRO QUERY_INTERACT
 # Consolidate the attribute merge options to what the factory expects
 DEFAULT_MACRO FeatureReader_COMBINE_ATTRS
 INCLUDE [       if { {RESULT_ONLY} == {MERGE} } {          puts "MACRO FeatureReader_COMBINE_ATTRS <Unused>";       } else {          puts "MACRO FeatureReader_COMBINE_ATTRS RESULT_ONLY";       };    ]
-FACTORY_DEF * QueryFactory    FACTORY_NAME FeatureReader    INPUT  FEATURE_TYPE TestFilter_<at>Value<openparen>provincienaam<closeparen><space>=<space>Groningen    $(QUERY_INTERACTION_LINE)    QUERYFCT_TABLE_SEPARATOR SPACE    COMBINE_ATTRIBUTES  $(FeatureReader_COMBINE_ATTRS)    QUERYFCT_ATTRIBUTE_PREFIX <Unused>    COMBINE_GEOMETRY    RESULT_ONLY    ENABLE_CACHE        NO    READER_TYPE         WFS    READER_DATASET      "https:<solidus><solidus>geodata.nationaalgeoregister.nl<solidus>bestuurlijkegrenzen<solidus>wfs?"    READER_IDS          gemeenten    READER_DIRECTIVES   META_MACROS,SourceGML_READER_GROUP<comma><comma>SourceUSE_PROXY_SERVER<comma>NO<comma>SourceXML_FRAGMENTS_AS_DOCUMENTS<comma>YES<comma>SourceARCGIS_CACHE_GROUP<comma><comma>SourceFLATTEN_XML_FRAGMENTS<comma>NO<comma>SourceXSD_DOC<comma><comma>SourceMAX_RESULT_FEATURES<comma>30000<comma>SourceMAP_EMBEDDED_OBJECTS_AS<comma>ATTRIBUTES<comma>SourceMAX_MULTI_LIST_LEVEL<comma><comma>SourceFME_FEATURE_IDENTIFIER<comma><comma>SourceLOCAL_CACHE_EXPIRY<comma>60<comma>SourceUSE_SEARCH_ENVELOPE<comma>NO<comma>SourceFILTER_EXPRESSION<comma><comma>SourceMAP_PREDEFINED_GML_PROPERTIES<comma>NO<comma>SourceUSE_OLD_READER<comma>NO<comma>SourcePREFER_POST<comma>No<comma>SourceUSE_HTTP_AUTH<comma>NO<comma>SourceQNAMES_FOR_PROPERTIES_TO_IGNORE<comma><comma>SourceDISABLE_AUTOMATIC_READER_TYPE_SELECTION<comma>NO<comma>SourceEXPOSE_ATTRS_GROUP<comma><comma>SourceDISABLE_XML_NAMESPACE_PROCESSING<comma>NO<comma>SourceMAP_GEOMETRY_COLUMNS<comma>YES<comma>SourceWFS_EXPOSE_FORMAT_ATTRS<comma><comma>SourceSRS_ANGLE_DIRECTION<comma><comma>SourceENFORCE_PATH_CONTINUITY_BY<comma>SNAPPING_END_POINTS<comma>SourceSRS_AXIS_ORDER<comma><comma>SourceCLIP_TO_ENVELOPE<comma>NO<comma>SourceOUTPUT_FORMAT<comma><comma>SourcePREFERRED_VERSION<comma>1.1.0<comma>SourceMAP_COMPLEX_PROPERTIES_AS<comma><quote>Nested<space>Attributes<quote>,METAFILE,WFS,IDLIST,    CONTINUE_ON_READER_ERROR YES    READER_PARAMS     $(FeatureReader_DIRECTIVES)    OUTPUT RESULT FEATURE_TYPE *      @SupplyAttributes(fme_feature_type,@FeatureType())      @Tcl2("set FME_FeatureType [FeatureReader_findInListElseDefault [FME_EncodeText $FME_FeatureType] {<OTHER>}]")      @Transform(WFS,FME_GENERIC)    OUTPUT QUERY FEATURE_TYPE FeatureReader_INITIATOR    OUTPUT READER_ERROR FEATURE_TYPE FeatureReader_<REJECTED>
+FACTORY_DEF * QueryFactory    FACTORY_NAME FeatureReader    INPUT  FEATURE_TYPE provincies_WFS_1    $(QUERY_INTERACTION_LINE)    QUERYFCT_TABLE_SEPARATOR SPACE    COMBINE_ATTRIBUTES  $(FeatureReader_COMBINE_ATTRS)    QUERYFCT_ATTRIBUTE_PREFIX <Unused>    COMBINE_GEOMETRY    RESULT_ONLY    ENABLE_CACHE        NO    READER_TYPE         WFS    READER_DATASET      "https:<solidus><solidus>geodata.nationaalgeoregister.nl<solidus>bestuurlijkegrenzen<solidus>wfs?"    READER_IDS          gemeenten    READER_DIRECTIVES   META_MACROS,SourceGML_READER_GROUP<comma><comma>SourceUSE_PROXY_SERVER<comma>NO<comma>SourceXML_FRAGMENTS_AS_DOCUMENTS<comma>YES<comma>SourceARCGIS_CACHE_GROUP<comma><comma>SourceFLATTEN_XML_FRAGMENTS<comma>NO<comma>SourceXSD_DOC<comma><comma>SourceMAX_RESULT_FEATURES<comma>30000<comma>SourceMAP_EMBEDDED_OBJECTS_AS<comma>ATTRIBUTES<comma>SourceMAX_MULTI_LIST_LEVEL<comma><comma>SourceFME_FEATURE_IDENTIFIER<comma><comma>SourceLOCAL_CACHE_EXPIRY<comma>60<comma>SourceUSE_SEARCH_ENVELOPE<comma>NO<comma>SourceFILTER_EXPRESSION<comma><comma>SourceMAP_PREDEFINED_GML_PROPERTIES<comma>NO<comma>SourceUSE_OLD_READER<comma>NO<comma>SourcePREFER_POST<comma>No<comma>SourceUSE_HTTP_AUTH<comma>NO<comma>SourceQNAMES_FOR_PROPERTIES_TO_IGNORE<comma><comma>SourceDISABLE_AUTOMATIC_READER_TYPE_SELECTION<comma>NO<comma>SourceEXPOSE_ATTRS_GROUP<comma><comma>SourceDISABLE_XML_NAMESPACE_PROCESSING<comma>NO<comma>SourceMAP_GEOMETRY_COLUMNS<comma>YES<comma>SourceWFS_EXPOSE_FORMAT_ATTRS<comma><comma>SourceSRS_ANGLE_DIRECTION<comma><comma>SourceENFORCE_PATH_CONTINUITY_BY<comma>SNAPPING_END_POINTS<comma>SourceSRS_AXIS_ORDER<comma><comma>SourceCLIP_TO_ENVELOPE<comma>NO<comma>SourceOUTPUT_FORMAT<comma><comma>SourcePREFERRED_VERSION<comma>1.1.0<comma>SourceMAP_COMPLEX_PROPERTIES_AS<comma><quote>Nested<space>Attributes<quote>,METAFILE,WFS,IDLIST,    CONTINUE_ON_READER_ERROR YES    READER_PARAMS     $(FeatureReader_DIRECTIVES)    OUTPUT RESULT FEATURE_TYPE *      @SupplyAttributes(fme_feature_type,@FeatureType())      @Tcl2("set FME_FeatureType [FeatureReader_findInListElseDefault [FME_EncodeText $FME_FeatureType] {<OTHER>}]")      @Transform(WFS,FME_GENERIC)    OUTPUT QUERY FEATURE_TYPE FeatureReader_INITIATOR    OUTPUT READER_ERROR FEATURE_TYPE FeatureReader_<REJECTED>
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "FeatureReader <OTHER> Output Nuker"   INPUT FEATURE_TYPE FeatureReader_<OTHER>
 FACTORY_DEF * TeeFactory   FACTORY_NAME "FeatureReader INITIATOR Output Nuker"   INPUT FEATURE_TYPE FeatureReader_INITIATOR
 FACTORY_DEF * TeeFactory   FACTORY_NAME "FeatureReader <REJECTED> Output Nuker"   INPUT FEATURE_TYPE FeatureReader_<REJECTED>
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_98b94074_945e_4f85_bca4_eec04fabe5301_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_857a8791_56bf_4973_9bb7_21b82bbf5acd2_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE FeatureReader_gemeenten    OUTPUT FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,gemeentenaam,code,fme_pcre_match,"^fme_$(AttributeKeeper_98b94074_945e_4f85_bca4_eec04fabe5301_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE FeatureReader_gemeenten    OUTPUT FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,gemeentenaam,code,fme_pcre_match,"^fme_$(AttributeKeeper_857a8791_56bf_4973_9bb7_21b82bbf5acd2_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
@@ -3694,22 +3628,22 @@ FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_2 id<space>ATTRIBUTE_IS_MISS
 
 MACRO casemac
 INCLUDE [ if { {NO} == {NO} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc StringReplacer_256da031_1742_4f02_a8d8_7000be9685651_replacer { findText replaceText invalidValue} {     set attrs [split \"address,adm2,municipality,name\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{YES} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer    INPUT  FEATURE_TYPE TestFilter_2_<lt>UNFILTERED<gt>    OUTPUT FEATURE_TYPE StringReplacer_OUTPUT         @Tcl2("StringReplacer_256da031_1742_4f02_a8d8_7000be9685651_replacer {<backslash><opencurly><backslash><opencurly><openbracket>^<backslash>|<closebracket>+<backslash>|<openbracket>^<backslash>|<closebracket>+<backslash>|||<backslash><closecurly><backslash><closecurly>||<backslash><openbracket><backslash><openbracket><openbracket>^<backslash>|<closebracket>+<backslash>|||<backslash><openbracket><backslash><openbracket>||<backslash><closebracket><backslash><closebracket>} {} {_FME_NO_OP_}")
+Tcl2 proc StringReplacer_55758541_389e_4fba_8a32_22509389b5b02_replacer { findText replaceText invalidValue} {     set attrs [split \"address,adm2,municipality,name\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{YES} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer    INPUT  FEATURE_TYPE TestFilter_2_<lt>UNFILTERED<gt>    OUTPUT FEATURE_TYPE StringReplacer_OUTPUT         @Tcl2("StringReplacer_55758541_389e_4fba_8a32_22509389b5b02_replacer {<backslash><opencurly><backslash><opencurly><openbracket>^<backslash>|<closebracket>+<backslash>|<openbracket>^<backslash>|<closebracket>+<backslash>|||<backslash><closecurly><backslash><closecurly>||<backslash><openbracket><backslash><openbracket><openbracket>^<backslash>|<closebracket>+<backslash>|||<backslash><openbracket><backslash><openbracket>||<backslash><closebracket><backslash><closebracket>} {} {_FME_NO_OP_}")
 
 # -------------------------------------------------------------------------
 
 MACRO casemac
 INCLUDE [ if { {NO} == {NO} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc StringReplacer_2_7833772c_4461_4935_ba12_be4926fd44531_replacer { findText replaceText invalidValue} {     set attrs [split \"address,name\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{YES} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer_2    INPUT  FEATURE_TYPE StringReplacer_OUTPUT    OUTPUT FEATURE_TYPE StringReplacer_2_OUTPUT         @Tcl2("StringReplacer_2_7833772c_4461_4935_ba12_be4926fd44531_replacer {<lt>br<openbracket><backslash>s<closebracket>*<solidus><gt>} {} {_FME_NO_OP_}")
+Tcl2 proc StringReplacer_2_12865bec_1ed6_429e_b48d_210f2183de712_replacer { findText replaceText invalidValue} {     set attrs [split \"address,name\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{YES} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer_2    INPUT  FEATURE_TYPE StringReplacer_OUTPUT    OUTPUT FEATURE_TYPE StringReplacer_2_OUTPUT         @Tcl2("StringReplacer_2_12865bec_1ed6_429e_b48d_210f2183de712_replacer {<lt>br<openbracket><backslash>s<closebracket>*<solidus><gt>} {} {_FME_NO_OP_}")
 
 # -------------------------------------------------------------------------
 
 MACRO casemac
 INCLUDE [ if { {NO} == {NO} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc StringReplacer_3_4e8e6970_146e_4526_a69b_dab115faa3da1_replacer { findText replaceText invalidValue} {     set attrs [split \"address,name\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer_3    INPUT  FEATURE_TYPE StringReplacer_2_OUTPUT    OUTPUT FEATURE_TYPE StringReplacer_3_OUTPUT         @Tcl2("StringReplacer_3_4e8e6970_146e_4526_a69b_dab115faa3da1_replacer {<amp>nbsp<semicolon>} {<space>} {_FME_NO_OP_}")
+Tcl2 proc StringReplacer_3_74bb6000_8e54_400f_8715_e3fd723e123f2_replacer { findText replaceText invalidValue} {     set attrs [split \"address,name\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer_3    INPUT  FEATURE_TYPE StringReplacer_2_OUTPUT    OUTPUT FEATURE_TYPE StringReplacer_3_OUTPUT         @Tcl2("StringReplacer_3_74bb6000_8e54_400f_8715_e3fd723e123f2_replacer {<amp>nbsp<semicolon>} {<space>} {_FME_NO_OP_}")
 
 # -------------------------------------------------------------------------
 FACTORY_DEF * AttrSetFactory FACTORY_NAME AttributeCreator ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV INPUT  FEATURE_TYPE StringReplacer_3_OUTPUT ATTR image "FME_CONDITIONAL:DEFAULT_VALUE'http:<solidus><solidus>commons.wikimedia.org<solidus>wiki<solidus>File:<at>Value<openparen>image<closeparen>#<solidus>media<solidus>File:<at>Value<openparen>image<closeparen>'BOOL_OP;OR;COMPOSITE_TEST;<Unused>;TEST image ATTRIBUTE_IS_EMPTY _FME_BLANK_STRING_'<at>Value<openparen>image<closeparen>'FME_NUM_CONDITIONS2___" ATTR source "FME_CONDITIONAL:DEFAULT_VALUE'http:<at>Value<openparen>source<closeparen>'BOOL_OP;OR;COMPOSITE_TEST;<Unused>;TEST source ATTRIBUTE_IS_EMPTY _FME_BLANK_STRING_'<at>Value<openparen>source<closeparen>'FME_NUM_CONDITIONS2___"    OUTPUT OUTPUT FEATURE_TYPE AttributeCreator_OUTPUT 
@@ -3720,8 +3654,8 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRemover    INPUT  FEATURE_TYPE
 
 # -------------------------------------------------------------------------
 
-Tcl2 proc DuplicateRemover_35184709_77bd_4aa0_b401_66684371a1311_dupKeyCount { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList { } ];     set attrVal {___DuplicateRemover_35184709_77bd_4aa0_b401_66684371a1311___};     foreach {attrName} $attrs {         set attrName [FME_DecodeText $attrName];         append attrVal [FME_GetAttribute $attrName] {_fmebreak_};     };     return [expr [incr ::__DuplicateRemover_35184709_77bd_4aa0_b401_66684371a1311__KeySeenCount($attrVal)] - 1]; };
-FACTORY_DEF * TestFactory    FACTORY_NAME DuplicateRemover    INPUT  FEATURE_TYPE AttributeRemover_OUTPUT    TEST @Tcl2("DuplicateRemover_35184709_77bd_4aa0_b401_66684371a1311_dupKeyCount {(address adm0 adm1 adm2 adm3 adm4 changed commonscat country id image lang lat lon monument_article municipality name registrant_url source)}") > 0    OUTPUT FAILED FEATURE_TYPE DuplicateRemover_UNIQUE
+Tcl2 proc DuplicateRemover_61ad868e_df6c_43a9_bcc8_ef86bbdf528c2_dupKeyCount { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList { } ];     set attrVal {___DuplicateRemover_61ad868e_df6c_43a9_bcc8_ef86bbdf528c2___};     foreach {attrName} $attrs {         set attrName [FME_DecodeText $attrName];         append attrVal [FME_GetAttribute $attrName] {_fmebreak_};     };     return [expr [incr ::__DuplicateRemover_61ad868e_df6c_43a9_bcc8_ef86bbdf528c2__KeySeenCount($attrVal)] - 1]; };
+FACTORY_DEF * TestFactory    FACTORY_NAME DuplicateRemover    INPUT  FEATURE_TYPE AttributeRemover_OUTPUT    TEST @Tcl2("DuplicateRemover_61ad868e_df6c_43a9_bcc8_ef86bbdf528c2_dupKeyCount {(address adm0 adm1 adm2 adm3 adm4 changed commonscat country id image lang lat lon monument_article municipality name registrant_url source)}") > 0    OUTPUT FAILED FEATURE_TYPE DuplicateRemover_UNIQUE
 
 # -------------------------------------------------------------------------
 
@@ -3773,9 +3707,9 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRemover_3    INPUT  FEATURE_TY
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_2_0e67cf60_6d6a_4841_b8d9_077b2e137ef21_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_2_f4f4d0e3_55da_4d1f_8b84_edca7abc02722_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_2    INPUT  FEATURE_TYPE AttributeRemover_3_OUTPUT    INPUT  FEATURE_TYPE TestFilter_3_lat<space>ATTRIBUTE_IS_EMPTY    OUTPUT FEATURE_TYPE AttributeKeeper_2_OUTPUT        @KeepAttributes(fme_encoded,address,code,gemeentenaam,id,image,name,source,x,y,woonplaats,fme_pcre_match,"^fme_$(AttributeKeeper_2_0e67cf60_6d6a_4841_b8d9_077b2e137ef21_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_2    INPUT  FEATURE_TYPE TestFilter_3_lat<space>ATTRIBUTE_IS_EMPTY    INPUT  FEATURE_TYPE AttributeRemover_3_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_2_OUTPUT        @KeepAttributes(fme_encoded,address,code,gemeentenaam,id,image,name,source,x,y,woonplaats,fme_pcre_match,"^fme_$(AttributeKeeper_2_f4f4d0e3_55da_4d1f_8b84_edca7abc02722_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
@@ -3785,7 +3719,7 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRenamer    INPUT  FEATURE_TYPE
 FACTORY_DEF * TeeFactory   FACTORY_NAME "AttributeRenamer OUTPUT Splitter"   INPUT FEATURE_TYPE AttributeRenamer_OUTPUT   OUTPUT FEATURE_TYPE AttributeRenamer_OUTPUT_0_JV5u6+unT2I=   OUTPUT FEATURE_TYPE AttributeRenamer_OUTPUT_1_zxgSiKgnAxI=
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC AttributeRenamer_OUTPUT_0_JV5u6+unT2I= TO XLSXW2 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Gemeentelijke<lt>space<gt>monumenten<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_OUTPUT_1_zxgSiKgnAxI= TO SHAPE __GO_TO_FINAL_OUTPUT_ROUTER__ <at>CopyAttributes<openparen>ENCODED<comma>OMSCHR<comma>omschrijving<comma>ADRES<comma>adres<comma>WOONPLAATS<comma>woonplaats<comma>GEMEENTE<comma>gemeente<comma>CBS_CODE<comma>CBS-code<comma>ID_WIKI<comma>id-wikipedia<comma>AFBEELDING<comma>afbeelding<comma>BRON<comma>bron<comma>X<comma>x<comma>Y<comma>y<closeparen>,multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GemeentelijkeMonumenten<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC AttributeRenamer_OUTPUT_1_zxgSiKgnAxI= TO XLSXW2 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Gemeentelijke<lt>space<gt>monumenten<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_OUTPUT_0_JV5u6+unT2I= TO SHAPE __GO_TO_FINAL_OUTPUT_ROUTER__ <at>CopyAttributes<openparen>ENCODED<comma>OMSCHR<comma>omschrijving<comma>ADRES<comma>adres<comma>WOONPLAATS<comma>woonplaats<comma>GEMEENTE<comma>gemeente<comma>CBS_CODE<comma>CBS-code<comma>ID_WIKI<comma>id-wikipedia<comma>AFBEELDING<comma>afbeelding<comma>BRON<comma>bron<comma>X<comma>x<comma>Y<comma>y<closeparen>,multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>GemeentelijkeMonumenten<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
