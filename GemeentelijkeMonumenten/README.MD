@@ -1,4 +1,4 @@
-#Gemeentelijke monumenten in Groningen
+## Gemeentelijke monumenten in Groningen
 
 Nederland kent naast Rijksmonumenten ook provinciale en gemeentelijke monumenten. Het staat provincies en gemeenten vrij om wel of geen monumenten aan te wijzen. Groningen heeft geen provinciale monumenten. Sommige Groninger gemeenten hebben gemeentelijke monumenten, maar de meeste niet. 
 
@@ -10,5 +10,5 @@ Ik heb een [workspace](https://github.com/FrieseWoudloper/FME_workspaces/tree/ma
 
 Omdat er misschien mensen zijn die de dataset met gemeentelijke monumenten willen gebruiken, maar niet de beschikking hebben over FME Desktop, heb ik de [output](https://github.com/FrieseWoudloper/FME_workspaces/tree/master/GemeentelijkeMonumenten/Output) van de workspace toegevoegd aan deze repository. Vergeet bij gebruik niet om Wikipedia als bron te vermelden. De gegevens in Wikipedia worden immers beschikbaar gesteld onder een [CC-BY-SA](https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content) licentie. 
 
-# Update: verbeterde versie van de FME workspace van Itay Bar-on
-[Itay Bar-on] (https://www.linkedin.com/in/etlsolution), gecertificeerd FME-specialist, heeft de moeite genomen om mijn workspace onder de loep te nemen. Hij heeft een verbeterde versie gemaakt. Zijn workspace is een stuk efficiënter en overzichtelijker dan die van mij. De [workspace van Itay] (https://github.com/FrieseWoudloper/FME_workspaces/tree/master/GemeentelijkeMonumenten/Workspace) heb ik met zijn toestemming toegevoegd aan de GitHub repository. Het is -voor mij althans- leerzaam om de twee aanpakken naast elkaar te zien. Vanaf deze plek wil ik Itay graag nogmaals bedanken.  Als je geïnteresseerd bent in FME, neem dan zeker een kijkje op Itay's website [www.etlsolution.nl] (http://www.etlsolution.nl/) of lees zijn [blog] (http://www.etlsolution.nl/blog.html).
+**Update: verbeterde versie van de FME workspace van Itay Bar-on**
+[Itay Bar-on] (https://www.linkedin.com/in/etlsolution), gecertificeerd FME-specialist, heeft de moeite genomen om mijn workspace onder de loep te nemen. Hij heeft een verbeterde versie gemaakt. Zijn workspace is een stuk efficiënter en overzichtelijker dan die van mij. De [workspace van Itay] (https://github.com/FrieseWoudloper/FME_workspaces/tree/master/GemeentelijkeMonumenten/Workspace) heb ik met zijn toestemming toegevoegd aan de GitHub repository. Het is leerzaam om de twee aanpakken naast elkaar te zien. Vanaf deze plek wil ik Itay graag nogmaals bedanken.  Als je geïnteresseerd bent in FME, neem dan zeker een kijkje op Itay's website [www.etlsolution.nl] (http://www.etlsolution.nl/) of lees zijn [blog] (http://www.etlsolution.nl/blog.html).
