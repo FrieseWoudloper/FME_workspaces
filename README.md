@@ -3,3 +3,4 @@ In deze repository vind je een verzameling FME workspaces die ik gemaakt heb met
 De repository bevat de volgende workspaces:
 * [TOP25raster-bestanden](https://github.com/FrieseWoudloper/FME_workspaces/tree/master/TOP25raster)
 * [Gemeentelijke monumenten](https://github.com/FrieseWoudloper/FME_workspaces/tree/master/GemeentelijkeMonumenten)
+* [BAG WFS Response Paging](https://github.com/FrieseWoudloper/FME_workspaces/tree/master/BAGResponsePaging)
